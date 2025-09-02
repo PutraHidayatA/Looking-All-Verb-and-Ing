@@ -1,0 +1,6995 @@
+[
+  {
+    "no": "1",
+    "verb1": "abash",
+    "verb2": "abashed",
+    "verb3": "abashed",
+    "verbing": "abashing"
+  },
+  {
+    "no": "2",
+    "verb1": "abate",
+    "verb2": "abated",
+    "verb3": "abated",
+    "verbing": "abating"
+  },
+  {
+    "no": "3",
+    "verb1": "abide",
+    "verb2": "abode",
+    "verb3": "abode",
+    "verbing": "abiding"
+  },
+  {
+    "no": "4",
+    "verb1": "absorb",
+    "verb2": "absorbed",
+    "verb3": "absorbed",
+    "verbing": "absorbing"
+  },
+  {
+    "no": "5",
+    "verb1": "accept",
+    "verb2": "accepted",
+    "verb3": "accepted",
+    "verbing": "accepting"
+  },
+  {
+    "no": "6",
+    "verb1": "accompany",
+    "verb2": "accompanied",
+    "verb3": "accompanied",
+    "verbing": "accompanying"
+  },
+  {
+    "no": "7",
+    "verb1": "ache",
+    "verb2": "ached",
+    "verb3": "ached",
+    "verbing": "aching"
+  },
+  {
+    "no": "8",
+    "verb1": "achieve",
+    "verb2": "achieved",
+    "verb3": "achieved",
+    "verbing": "achieving"
+  },
+  {
+    "no": "9",
+    "verb1": "acquire",
+    "verb2": "acquired",
+    "verb3": "acquired",
+    "verbing": "acquiring"
+  },
+  {
+    "no": "10",
+    "verb1": "act",
+    "verb2": "acted",
+    "verb3": "acted",
+    "verbing": "acting"
+  },
+  {
+    "no": "11",
+    "verb1": "add",
+    "verb2": "added",
+    "verb3": "added",
+    "verbing": "adding"
+  },
+  {
+    "no": "12",
+    "verb1": "address",
+    "verb2": "addressed",
+    "verb3": "addressed",
+    "verbing": "addressing"
+  },
+  {
+    "no": "13",
+    "verb1": "adjust",
+    "verb2": "adjusted",
+    "verb3": "adjusted",
+    "verbing": "adjusting"
+  },
+  {
+    "no": "14",
+    "verb1": "admire",
+    "verb2": "admired",
+    "verb3": "admired",
+    "verbing": "admiring"
+  },
+  {
+    "no": "15",
+    "verb1": "admit",
+    "verb2": "admitted",
+    "verb3": "admitted",
+    "verbing": "admitting"
+  },
+  {
+    "no": "16",
+    "verb1": "advise",
+    "verb2": "advised",
+    "verb3": "advised",
+    "verbing": "advising"
+  },
+  {
+    "no": "17",
+    "verb1": "afford",
+    "verb2": "afforded",
+    "verb3": "afforded",
+    "verbing": "affording"
+  },
+  {
+    "no": "18",
+    "verb1": "agree",
+    "verb2": "agreed",
+    "verb3": "agreed",
+    "verbing": "agreeing"
+  },
+  {
+    "no": "19",
+    "verb1": "alight",
+    "verb2": "alit",
+    "verb3": "alit",
+    "verbing": "alighting"
+  },
+  {
+    "no": "20",
+    "verb1": "allow",
+    "verb2": "allowed",
+    "verb3": "allowed",
+    "verbing": "allowing"
+  },
+  {
+    "no": "21",
+    "verb1": "animate",
+    "verb2": "animated",
+    "verb3": "animated",
+    "verbing": "animating"
+  },
+  {
+    "no": "22",
+    "verb1": "announce",
+    "verb2": "announced",
+    "verb3": "announced",
+    "verbing": "announcing"
+  },
+  {
+    "no": "23",
+    "verb1": "answer",
+    "verb2": "answered",
+    "verb3": "answered",
+    "verbing": "answering"
+  },
+  {
+    "no": "24",
+    "verb1": "apologize",
+    "verb2": "apologized",
+    "verb3": "apologized",
+    "verbing": "apologizing"
+  },
+  {
+    "no": "25",
+    "verb1": "appear",
+    "verb2": "appeared",
+    "verb3": "appeared",
+    "verbing": "appearing"
+  },
+  {
+    "no": "26",
+    "verb1": "applaud",
+    "verb2": "applauded",
+    "verb3": "applauded",
+    "verbing": "applauding"
+  },
+  {
+    "no": "27",
+    "verb1": "apply",
+    "verb2": "applied",
+    "verb3": "applied",
+    "verbing": "applying"
+  },
+  {
+    "no": "28",
+    "verb1": "approach",
+    "verb2": "approached",
+    "verb3": "approached",
+    "verbing": "approaching"
+  },
+  {
+    "no": "29",
+    "verb1": "approve",
+    "verb2": "approved",
+    "verb3": "approved",
+    "verbing": "approving"
+  },
+  {
+    "no": "30",
+    "verb1": "argue",
+    "verb2": "argued",
+    "verb3": "argued",
+    "verbing": "arguing"
+  },
+  {
+    "no": "31",
+    "verb1": "arise",
+    "verb2": "arose",
+    "verb3": "arisen",
+    "verbing": "arising"
+  },
+  {
+    "no": "32",
+    "verb1": "arrange",
+    "verb2": "arranged",
+    "verb3": "arranged",
+    "verbing": "arranging"
+  },
+  {
+    "no": "33",
+    "verb1": "arrest",
+    "verb2": "arrested",
+    "verb3": "arrested",
+    "verbing": "arresting"
+  },
+  {
+    "no": "34",
+    "verb1": "ask",
+    "verb2": "asked",
+    "verb3": "asked",
+    "verbing": "asking"
+  },
+  {
+    "no": "35",
+    "verb1": "assert",
+    "verb2": "asserted",
+    "verb3": "asserted",
+    "verbing": "asserting"
+  },
+  {
+    "no": "36",
+    "verb1": "assort",
+    "verb2": "assorted",
+    "verb3": "assorted",
+    "verbing": "assorting"
+  },
+  {
+    "no": "37",
+    "verb1": "astonish",
+    "verb2": "astonished",
+    "verb3": "astonished",
+    "verbing": "astonishing"
+  },
+  {
+    "no": "38",
+    "verb1": "attack",
+    "verb2": "attacked",
+    "verb3": "attacked",
+    "verbing": "attacking"
+  },
+  {
+    "no": "39",
+    "verb1": "attend",
+    "verb2": "attended",
+    "verb3": "attended",
+    "verbing": "attending"
+  },
+  {
+    "no": "40",
+    "verb1": "attract",
+    "verb2": "attracted",
+    "verb3": "attracted",
+    "verbing": "attracting"
+  },
+  {
+    "no": "41",
+    "verb1": "audit",
+    "verb2": "audited",
+    "verb3": "audited",
+    "verbing": "auditing"
+  },
+  {
+    "no": "42",
+    "verb1": "avoid",
+    "verb2": "avoided",
+    "verb3": "avoided",
+    "verbing": "avoiding"
+  },
+  {
+    "no": "43",
+    "verb1": "awake",
+    "verb2": "awoke",
+    "verb3": "awoken",
+    "verbing": "awaking"
+  },
+  {
+    "no": "44",
+    "verb1": "bang",
+    "verb2": "banged",
+    "verb3": "banged",
+    "verbing": "banging"
+  },
+  {
+    "no": "45",
+    "verb1": "banish",
+    "verb2": "banished",
+    "verb3": "banished",
+    "verbing": "banishing"
+  },
+  {
+    "no": "46",
+    "verb1": "bash",
+    "verb2": "bashed",
+    "verb3": "bashed",
+    "verbing": "bashing"
+  },
+  {
+    "no": "47",
+    "verb1": "bat",
+    "verb2": "batted",
+    "verb3": "batted",
+    "verbing": "batting"
+  },
+  {
+    "no": "48",
+    "verb1": "be (am,are)",
+    "verb2": "was / were",
+    "verb3": "been",
+    "verbing": "being"
+  },
+  {
+    "no": "49",
+    "verb1": "bear",
+    "verb2": "bore",
+    "verb3": "born",
+    "verbing": "bearing"
+  },
+  {
+    "no": "50",
+    "verb1": "bear",
+    "verb2": "bore",
+    "verb3": "borne",
+    "verbing": "bearing"
+  },
+  {
+    "no": "51",
+    "verb1": "beat",
+    "verb2": "beat",
+    "verb3": "beaten",
+    "verbing": "beating"
+  },
+  {
+    "no": "52",
+    "verb1": "beautify",
+    "verb2": "beautified",
+    "verb3": "beautified",
+    "verbing": "beautifying"
+  },
+  {
+    "no": "53",
+    "verb1": "become",
+    "verb2": "became",
+    "verb3": "become",
+    "verbing": "becoming"
+  },
+  {
+    "no": "54",
+    "verb1": "befall",
+    "verb2": "befell",
+    "verb3": "befallen",
+    "verbing": "befalling"
+  },
+  {
+    "no": "55",
+    "verb1": "beg",
+    "verb2": "begged",
+    "verb3": "begged",
+    "verbing": "begging"
+  },
+  {
+    "no": "56",
+    "verb1": "begin",
+    "verb2": "began",
+    "verb3": "begun",
+    "verbing": "beginning"
+  },
+  {
+    "no": "57",
+    "verb1": "behave",
+    "verb2": "behaved",
+    "verb3": "behaved",
+    "verbing": "behaving"
+  },
+  {
+    "no": "58",
+    "verb1": "behold",
+    "verb2": "beheld",
+    "verb3": "beheld",
+    "verbing": "beholding"
+  },
+  {
+    "no": "59",
+    "verb1": "believe",
+    "verb2": "believed",
+    "verb3": "believed",
+    "verbing": "believing"
+  },
+  {
+    "no": "60",
+    "verb1": "belong",
+    "verb2": "belonged",
+    "verb3": "belonged",
+    "verbing": "belonging"
+  },
+  {
+    "no": "61",
+    "verb1": "bend",
+    "verb2": "bent",
+    "verb3": "bent",
+    "verbing": "bending"
+  },
+  {
+    "no": "62",
+    "verb1": "bereave",
+    "verb2": "bereft",
+    "verb3": "bereft",
+    "verbing": "bereaving"
+  },
+  {
+    "no": "63",
+    "verb1": "beseech",
+    "verb2": "besought",
+    "verb3": "besought",
+    "verbing": "beseeching"
+  },
+  {
+    "no": "64",
+    "verb1": "bet",
+    "verb2": "bet",
+    "verb3": "bet",
+    "verbing": "betting"
+  },
+  {
+    "no": "65",
+    "verb1": "betray",
+    "verb2": "betrayed",
+    "verb3": "betrayed",
+    "verbing": "betraying"
+  },
+  {
+    "no": "66",
+    "verb1": "bid",
+    "verb2": "bade",
+    "verb3": "bidden",
+    "verbing": "bidding"
+  },
+  {
+    "no": "67",
+    "verb1": "bid",
+    "verb2": "bid",
+    "verb3": "bid",
+    "verbing": "bidding"
+  },
+  {
+    "no": "68",
+    "verb1": "bind",
+    "verb2": "bound",
+    "verb3": "bound",
+    "verbing": "binding"
+  },
+  {
+    "no": "69",
+    "verb1": "bite",
+    "verb2": "bit",
+    "verb3": "bitten",
+    "verbing": "biting"
+  },
+  {
+    "no": "70",
+    "verb1": "bleed",
+    "verb2": "bled",
+    "verb3": "bled",
+    "verbing": "bleeding"
+  },
+  {
+    "no": "71",
+    "verb1": "bless",
+    "verb2": "blessed",
+    "verb3": "blessed",
+    "verbing": "blessing"
+  },
+  {
+    "no": "72",
+    "verb1": "blossom",
+    "verb2": "blossomed",
+    "verb3": "blossomed",
+    "verbing": "blossoming"
+  },
+  {
+    "no": "73",
+    "verb1": "blow",
+    "verb2": "blew",
+    "verb3": "blown",
+    "verbing": "blowing"
+  },
+  {
+    "no": "74",
+    "verb1": "blur",
+    "verb2": "blurred",
+    "verb3": "blurred",
+    "verbing": "blurring"
+  },
+  {
+    "no": "75",
+    "verb1": "blush",
+    "verb2": "blushed",
+    "verb3": "blushed",
+    "verbing": "blushing"
+  },
+  {
+    "no": "76",
+    "verb1": "board",
+    "verb2": "boarded",
+    "verb3": "boarded",
+    "verbing": "boarding"
+  },
+  {
+    "no": "77",
+    "verb1": "boast",
+    "verb2": "boasted",
+    "verb3": "boasted",
+    "verbing": "boasting"
+  },
+  {
+    "no": "78",
+    "verb1": "boil",
+    "verb2": "boiled",
+    "verb3": "boiled",
+    "verbing": "boiling"
+  },
+  {
+    "no": "79",
+    "verb1": "bow",
+    "verb2": "bowed",
+    "verb3": "bowed",
+    "verbing": "bowing"
+  },
+  {
+    "no": "80",
+    "verb1": "box",
+    "verb2": "boxed",
+    "verb3": "boxed",
+    "verbing": "boxing"
+  },
+  {
+    "no": "81",
+    "verb1": "bray",
+    "verb2": "brayed",
+    "verb3": "brayed",
+    "verbing": "braying"
+  },
+  {
+    "no": "82",
+    "verb1": "break",
+    "verb2": "broke",
+    "verb3": "broken",
+    "verbing": "breaking"
+  },
+  {
+    "no": "83",
+    "verb1": "breathe",
+    "verb2": "breathed",
+    "verb3": "breathed",
+    "verbing": "breathing"
+  },
+  {
+    "no": "84",
+    "verb1": "breed",
+    "verb2": "bred",
+    "verb3": "bred",
+    "verbing": "breeding"
+  },
+  {
+    "no": "85",
+    "verb1": "bring",
+    "verb2": "brought",
+    "verb3": "brought",
+    "verbing": "bringing"
+  },
+  {
+    "no": "86",
+    "verb1": "broadcast",
+    "verb2": "broadcast",
+    "verb3": "broadcast",
+    "verbing": "broadcasting"
+  },
+  {
+    "no": "87",
+    "verb1": "brush",
+    "verb2": "brushed",
+    "verb3": "brushed",
+    "verbing": "brushing"
+  },
+  {
+    "no": "88",
+    "verb1": "build",
+    "verb2": "built",
+    "verb3": "built",
+    "verbing": "building"
+  },
+  {
+    "no": "89",
+    "verb1": "burn",
+    "verb2": "burnt",
+    "verb3": "burnt",
+    "verbing": "burning"
+  },
+  {
+    "no": "90",
+    "verb1": "burst",
+    "verb2": "burst",
+    "verb3": "burst",
+    "verbing": "bursting"
+  },
+  {
+    "no": "91",
+    "verb1": "bury",
+    "verb2": "buried",
+    "verb3": "buried",
+    "verbing": "burying"
+  },
+  {
+    "no": "92",
+    "verb1": "bust",
+    "verb2": "bust",
+    "verb3": "bust",
+    "verbing": "busting"
+  },
+  {
+    "no": "93",
+    "verb1": "buy",
+    "verb2": "bought",
+    "verb3": "bought",
+    "verbing": "buying"
+  },
+  {
+    "no": "94",
+    "verb1": "buzz",
+    "verb2": "buzzed",
+    "verb3": "buzzed",
+    "verbing": "buzzing"
+  },
+  {
+    "no": "95",
+    "verb1": "calculate",
+    "verb2": "calculated",
+    "verb3": "calculated",
+    "verbing": "calculating"
+  },
+  {
+    "no": "96",
+    "verb1": "call",
+    "verb2": "called",
+    "verb3": "called",
+    "verbing": "calling"
+  },
+  {
+    "no": "97",
+    "verb1": "canvass",
+    "verb2": "canvassed",
+    "verb3": "canvassed",
+    "verbing": "canvassing"
+  },
+  {
+    "no": "98",
+    "verb1": "capture",
+    "verb2": "captured",
+    "verb3": "captured",
+    "verbing": "capturing"
+  },
+  {
+    "no": "99",
+    "verb1": "caress",
+    "verb2": "caressed",
+    "verb3": "caressed",
+    "verbing": "caressing"
+  },
+  {
+    "no": "100",
+    "verb1": "carry",
+    "verb2": "carried",
+    "verb3": "carried",
+    "verbing": "carrying"
+  },
+  {
+    "no": "101",
+    "verb1": "carve",
+    "verb2": "carved",
+    "verb3": "carved",
+    "verbing": "carving"
+  },
+  {
+    "no": "102",
+    "verb1": "cash",
+    "verb2": "cashed",
+    "verb3": "cashed",
+    "verbing": "cashing"
+  },
+  {
+    "no": "103",
+    "verb1": "cast",
+    "verb2": "cast",
+    "verb3": "cast",
+    "verbing": "casting"
+  },
+  {
+    "no": "104",
+    "verb1": "catch",
+    "verb2": "caught",
+    "verb3": "caught",
+    "verbing": "catching"
+  },
+  {
+    "no": "105",
+    "verb1": "cause",
+    "verb2": "caused",
+    "verb3": "caused",
+    "verbing": "causing"
+  },
+  {
+    "no": "106",
+    "verb1": "cease",
+    "verb2": "ceased",
+    "verb3": "ceased",
+    "verbing": "ceasing"
+  },
+  {
+    "no": "107",
+    "verb1": "celebrate",
+    "verb2": "celebrated",
+    "verb3": "celebrated",
+    "verbing": "celebrating"
+  },
+  {
+    "no": "108",
+    "verb1": "challenge",
+    "verb2": "challenged",
+    "verb3": "challenged",
+    "verbing": "challenging"
+  },
+  {
+    "no": "109",
+    "verb1": "change",
+    "verb2": "changed",
+    "verb3": "changed",
+    "verbing": "changing"
+  },
+  {
+    "no": "110",
+    "verb1": "charge",
+    "verb2": "charged",
+    "verb3": "charged",
+    "verbing": "charging"
+  },
+  {
+    "no": "111",
+    "verb1": "chase",
+    "verb2": "chased",
+    "verb3": "chased",
+    "verbing": "chasing"
+  },
+  {
+    "no": "112",
+    "verb1": "chat",
+    "verb2": "chatted",
+    "verb3": "chatted",
+    "verbing": "chatting"
+  },
+  {
+    "no": "113",
+    "verb1": "check",
+    "verb2": "checked",
+    "verb3": "checked",
+    "verbing": "checking"
+  },
+  {
+    "no": "114",
+    "verb1": "cheer",
+    "verb2": "cheered",
+    "verb3": "cheered",
+    "verbing": "cheering"
+  },
+  {
+    "no": "115",
+    "verb1": "chew",
+    "verb2": "chewed",
+    "verb3": "chewed",
+    "verbing": "chewing"
+  },
+  {
+    "no": "116",
+    "verb1": "chide",
+    "verb2": "chid",
+    "verb3": "chid/chidden",
+    "verbing": "chiding"
+  },
+  {
+    "no": "117",
+    "verb1": "chip",
+    "verb2": "chipped",
+    "verb3": "chipped",
+    "verbing": "chipping"
+  },
+  {
+    "no": "118",
+    "verb1": "choke",
+    "verb2": "choked",
+    "verb3": "choked",
+    "verbing": "choking"
+  },
+  {
+    "no": "119",
+    "verb1": "choose",
+    "verb2": "chose",
+    "verb3": "chosen",
+    "verbing": "choosing"
+  },
+  {
+    "no": "120",
+    "verb1": "classify",
+    "verb2": "classified",
+    "verb3": "classified",
+    "verbing": "classifying"
+  },
+  {
+    "no": "121",
+    "verb1": "clean",
+    "verb2": "cleaned",
+    "verb3": "cleaned",
+    "verbing": "cleaning"
+  },
+  {
+    "no": "122",
+    "verb1": "cleave",
+    "verb2": "clove/cleft",
+    "verb3": "cloven/cleft",
+    "verbing": "cleaving"
+  },
+  {
+    "no": "123",
+    "verb1": "click",
+    "verb2": "clicked",
+    "verb3": "clicked",
+    "verbing": "clicking"
+  },
+  {
+    "no": "124",
+    "verb1": "climb",
+    "verb2": "climbed",
+    "verb3": "climbed",
+    "verbing": "climbing"
+  },
+  {
+    "no": "125",
+    "verb1": "cling",
+    "verb2": "clung",
+    "verb3": "clung",
+    "verbing": "clinging"
+  },
+  {
+    "no": "126",
+    "verb1": "close",
+    "verb2": "closed",
+    "verb3": "closed",
+    "verbing": "closing"
+  },
+  {
+    "no": "127",
+    "verb1": "clothe",
+    "verb2": "clad",
+    "verb3": "clad",
+    "verbing": "clothing"
+  },
+  {
+    "no": "128",
+    "verb1": "clutch",
+    "verb2": "clutched",
+    "verb3": "clutched",
+    "verbing": "clutching"
+  },
+  {
+    "no": "129",
+    "verb1": "collapse",
+    "verb2": "collapsed",
+    "verb3": "collapsed",
+    "verbing": "collapsing"
+  },
+  {
+    "no": "130",
+    "verb1": "collect",
+    "verb2": "collected",
+    "verb3": "collected",
+    "verbing": "collecting"
+  },
+  {
+    "no": "131",
+    "verb1": "colour",
+    "verb2": "coloured",
+    "verb3": "coloured",
+    "verbing": "colouring"
+  },
+  {
+    "no": "132",
+    "verb1": "come",
+    "verb2": "came",
+    "verb3": "come",
+    "verbing": "coming"
+  },
+  {
+    "no": "133",
+    "verb1": "comment",
+    "verb2": "commented",
+    "verb3": "commented",
+    "verbing": "commenting"
+  },
+  {
+    "no": "134",
+    "verb1": "compare",
+    "verb2": "compared",
+    "verb3": "compared",
+    "verbing": "comparing"
+  },
+  {
+    "no": "135",
+    "verb1": "compel",
+    "verb2": "compelled",
+    "verb3": "compelled",
+    "verbing": "compelling"
+  },
+  {
+    "no": "136",
+    "verb1": "compete",
+    "verb2": "competed",
+    "verb3": "competed",
+    "verbing": "competing"
+  },
+  {
+    "no": "137",
+    "verb1": "complain",
+    "verb2": "complained",
+    "verb3": "complained",
+    "verbing": "complaining"
+  },
+  {
+    "no": "138",
+    "verb1": "complete",
+    "verb2": "completed",
+    "verb3": "completed",
+    "verbing": "completing"
+  },
+  {
+    "no": "139",
+    "verb1": "conclude",
+    "verb2": "concluded",
+    "verb3": "concluded",
+    "verbing": "concluding"
+  },
+  {
+    "no": "140",
+    "verb1": "conduct",
+    "verb2": "conducted",
+    "verb3": "conducted",
+    "verbing": "conducting"
+  },
+  {
+    "no": "141",
+    "verb1": "confess",
+    "verb2": "confessed",
+    "verb3": "confessed",
+    "verbing": "confessing"
+  },
+  {
+    "no": "142",
+    "verb1": "confine",
+    "verb2": "confined",
+    "verb3": "confined",
+    "verbing": "confining"
+  },
+  {
+    "no": "143",
+    "verb1": "confiscate",
+    "verb2": "confiscated",
+    "verb3": "confiscated",
+    "verbing": "confiscating"
+  },
+  {
+    "no": "144",
+    "verb1": "confuse",
+    "verb2": "confused",
+    "verb3": "confused",
+    "verbing": "confusing"
+  },
+  {
+    "no": "145",
+    "verb1": "congratulate",
+    "verb2": "congratulated",
+    "verb3": "congratulated",
+    "verbing": "congratulating"
+  },
+  {
+    "no": "146",
+    "verb1": "connect",
+    "verb2": "connected",
+    "verb3": "connected",
+    "verbing": "connecting"
+  },
+  {
+    "no": "147",
+    "verb1": "connote",
+    "verb2": "connoted",
+    "verb3": "connoted",
+    "verbing": "connoting"
+  },
+  {
+    "no": "148",
+    "verb1": "conquer",
+    "verb2": "conquered",
+    "verb3": "conquered",
+    "verbing": "conquering"
+  },
+  {
+    "no": "149",
+    "verb1": "consecrate",
+    "verb2": "consecrated",
+    "verb3": "consecrated",
+    "verbing": "consecrating"
+  },
+  {
+    "no": "150",
+    "verb1": "consent",
+    "verb2": "consented",
+    "verb3": "consented",
+    "verbing": "consenting"
+  },
+  {
+    "no": "151",
+    "verb1": "conserve",
+    "verb2": "conserved",
+    "verb3": "conserved",
+    "verbing": "conserving"
+  },
+  {
+    "no": "152",
+    "verb1": "consider",
+    "verb2": "considered",
+    "verb3": "considered",
+    "verbing": "considering"
+  },
+  {
+    "no": "153",
+    "verb1": "consign",
+    "verb2": "consigned",
+    "verb3": "consigned",
+    "verbing": "consigning"
+  },
+  {
+    "no": "154",
+    "verb1": "consist",
+    "verb2": "consisted",
+    "verb3": "consisted",
+    "verbing": "consisting"
+  },
+  {
+    "no": "155",
+    "verb1": "console",
+    "verb2": "consoled",
+    "verb3": "consoled",
+    "verbing": "consoling"
+  },
+  {
+    "no": "156",
+    "verb1": "consort",
+    "verb2": "consorted",
+    "verb3": "consorted",
+    "verbing": "consorting"
+  },
+  {
+    "no": "157",
+    "verb1": "conspire",
+    "verb2": "conspired",
+    "verb3": "conspired",
+    "verbing": "conspiring"
+  },
+  {
+    "no": "158",
+    "verb1": "constitute",
+    "verb2": "constituted",
+    "verb3": "constituted",
+    "verbing": "constituting"
+  },
+  {
+    "no": "159",
+    "verb1": "constrain",
+    "verb2": "constrained",
+    "verb3": "constrained",
+    "verbing": "constraining"
+  },
+  {
+    "no": "160",
+    "verb1": "construct",
+    "verb2": "constructed",
+    "verb3": "constructed",
+    "verbing": "constructing"
+  },
+  {
+    "no": "161",
+    "verb1": "construe",
+    "verb2": "construed",
+    "verb3": "construed",
+    "verbing": "construing"
+  },
+  {
+    "no": "162",
+    "verb1": "consult",
+    "verb2": "consulted",
+    "verb3": "consulted",
+    "verbing": "consulting"
+  },
+  {
+    "no": "163",
+    "verb1": "contain",
+    "verb2": "contained",
+    "verb3": "contained",
+    "verbing": "containing"
+  },
+  {
+    "no": "164",
+    "verb1": "contemn",
+    "verb2": "contemned",
+    "verb3": "contemned",
+    "verbing": "contemning"
+  },
+  {
+    "no": "165",
+    "verb1": "contend",
+    "verb2": "contended",
+    "verb3": "contended",
+    "verbing": "contending"
+  },
+  {
+    "no": "166",
+    "verb1": "contest",
+    "verb2": "contested",
+    "verb3": "contested",
+    "verbing": "contesting"
+  },
+  {
+    "no": "167",
+    "verb1": "continue",
+    "verb2": "continued",
+    "verb3": "continued",
+    "verbing": "continuing"
+  },
+  {
+    "no": "168",
+    "verb1": "contract",
+    "verb2": "contracted",
+    "verb3": "contracted",
+    "verbing": "contracting"
+  },
+  {
+    "no": "169",
+    "verb1": "contradict",
+    "verb2": "contradicted",
+    "verb3": "contradicted",
+    "verbing": "contradicting"
+  },
+  {
+    "no": "170",
+    "verb1": "contrast",
+    "verb2": "contrasted",
+    "verb3": "contrasted",
+    "verbing": "contrasting"
+  },
+  {
+    "no": "171",
+    "verb1": "contribute",
+    "verb2": "contributed",
+    "verb3": "contributed",
+    "verbing": "contributing"
+  },
+  {
+    "no": "172",
+    "verb1": "contrive",
+    "verb2": "contrived",
+    "verb3": "contrived",
+    "verbing": "contriving"
+  },
+  {
+    "no": "173",
+    "verb1": "control",
+    "verb2": "controlled",
+    "verb3": "controlled",
+    "verbing": "controlling"
+  },
+  {
+    "no": "174",
+    "verb1": "convene",
+    "verb2": "convened",
+    "verb3": "convened",
+    "verbing": "convening"
+  },
+  {
+    "no": "175",
+    "verb1": "converge",
+    "verb2": "converged",
+    "verb3": "converged",
+    "verbing": "converging"
+  },
+  {
+    "no": "176",
+    "verb1": "converse",
+    "verb2": "conversed",
+    "verb3": "conversed",
+    "verbing": "conversing"
+  },
+  {
+    "no": "177",
+    "verb1": "convert",
+    "verb2": "converted",
+    "verb3": "converted",
+    "verbing": "converting"
+  },
+  {
+    "no": "178",
+    "verb1": "convey",
+    "verb2": "conveyed",
+    "verb3": "conveyed",
+    "verbing": "conveying"
+  },
+  {
+    "no": "179",
+    "verb1": "convict",
+    "verb2": "convicted",
+    "verb3": "convicted",
+    "verbing": "convicting"
+  },
+  {
+    "no": "180",
+    "verb1": "convince",
+    "verb2": "convinced",
+    "verb3": "convinced",
+    "verbing": "convincing"
+  },
+  {
+    "no": "181",
+    "verb1": "coo",
+    "verb2": "cooed",
+    "verb3": "cooed",
+    "verbing": "cooing"
+  },
+  {
+    "no": "182",
+    "verb1": "cook",
+    "verb2": "cooked",
+    "verb3": "cooked",
+    "verbing": "cooking"
+  },
+  {
+    "no": "183",
+    "verb1": "cool",
+    "verb2": "cooled",
+    "verb3": "cooled",
+    "verbing": "cooling"
+  },
+  {
+    "no": "184",
+    "verb1": "co-operate",
+    "verb2": "co-operated",
+    "verb3": "co-operated",
+    "verbing": "co-operating"
+  },
+  {
+    "no": "185",
+    "verb1": "cope",
+    "verb2": "coped",
+    "verb3": "cope",
+    "verbing": "coping"
+  },
+  {
+    "no": "186",
+    "verb1": "copy",
+    "verb2": "copied",
+    "verb3": "copied",
+    "verbing": "copying"
+  },
+  {
+    "no": "187",
+    "verb1": "correct",
+    "verb2": "corrected",
+    "verb3": "corrected",
+    "verbing": "correcting"
+  },
+  {
+    "no": "188",
+    "verb1": "correspond",
+    "verb2": "corresponded",
+    "verb3": "corresponded",
+    "verbing": "corresponding"
+  },
+  {
+    "no": "189",
+    "verb1": "corrode",
+    "verb2": "corroded",
+    "verb3": "corroded",
+    "verbing": "corroding"
+  },
+  {
+    "no": "190",
+    "verb1": "corrupt",
+    "verb2": "corrupted",
+    "verb3": "corrupted",
+    "verbing": "corrupting"
+  },
+  {
+    "no": "191",
+    "verb1": "cost",
+    "verb2": "cost",
+    "verb3": "cost",
+    "verbing": "costing"
+  },
+  {
+    "no": "192",
+    "verb1": "cough",
+    "verb2": "coughed",
+    "verb3": "coughed",
+    "verbing": "coughing"
+  },
+  {
+    "no": "193",
+    "verb1": "counsel",
+    "verb2": "counselled",
+    "verb3": "counselled",
+    "verbing": "counselling"
+  },
+  {
+    "no": "194",
+    "verb1": "count",
+    "verb2": "counted",
+    "verb3": "counted",
+    "verbing": "counting"
+  },
+  {
+    "no": "195",
+    "verb1": "course",
+    "verb2": "coursed",
+    "verb3": "coursed",
+    "verbing": "coursing"
+  },
+  {
+    "no": "196",
+    "verb1": "cover",
+    "verb2": "covered",
+    "verb3": "covered",
+    "verbing": "covering"
+  },
+  {
+    "no": "197",
+    "verb1": "cower",
+    "verb2": "cowered",
+    "verb3": "cowered",
+    "verbing": "cowering"
+  },
+  {
+    "no": "198",
+    "verb1": "crack",
+    "verb2": "cracked",
+    "verb3": "cracked",
+    "verbing": "cracking"
+  },
+  {
+    "no": "199",
+    "verb1": "crackle",
+    "verb2": "crackled",
+    "verb3": "crackled",
+    "verbing": "crackling"
+  },
+  {
+    "no": "200",
+    "verb1": "crash",
+    "verb2": "crashed",
+    "verb3": "crashed",
+    "verbing": "crashing"
+  },
+  {
+    "no": "201",
+    "verb1": "crave",
+    "verb2": "craved",
+    "verb3": "craved",
+    "verbing": "craving"
+  },
+  {
+    "no": "202",
+    "verb1": "create",
+    "verb2": "created",
+    "verb3": "created",
+    "verbing": "creating"
+  },
+  {
+    "no": "203",
+    "verb1": "creep",
+    "verb2": "crept",
+    "verb3": "crept",
+    "verbing": "creeping"
+  },
+  {
+    "no": "204",
+    "verb1": "crib",
+    "verb2": "cribbed",
+    "verb3": "cribbed",
+    "verbing": "cribbing"
+  },
+  {
+    "no": "205",
+    "verb1": "cross",
+    "verb2": "crossed",
+    "verb3": "crossed",
+    "verbing": "crossing"
+  },
+  {
+    "no": "206",
+    "verb1": "crowd",
+    "verb2": "crowded",
+    "verb3": "crowded",
+    "verbing": "crowding"
+  },
+  {
+    "no": "207",
+    "verb1": "crush",
+    "verb2": "crushed",
+    "verb3": "crushed",
+    "verbing": "crushing"
+  },
+  {
+    "no": "208",
+    "verb1": "cry",
+    "verb2": "cried",
+    "verb3": "cried",
+    "verbing": "crying"
+  },
+  {
+    "no": "209",
+    "verb1": "curb",
+    "verb2": "curbed",
+    "verb3": "curbed",
+    "verbing": "curbing"
+  },
+  {
+    "no": "210",
+    "verb1": "cure",
+    "verb2": "cured",
+    "verb3": "cured",
+    "verbing": "curing"
+  },
+  {
+    "no": "211",
+    "verb1": "curve",
+    "verb2": "curved",
+    "verb3": "curved",
+    "verbing": "curving"
+  },
+  {
+    "no": "212",
+    "verb1": "cut",
+    "verb2": "cut",
+    "verb3": "cut",
+    "verbing": "cutting"
+  },
+  {
+    "no": "213",
+    "verb1": "cycle",
+    "verb2": "cycled",
+    "verb3": "cycled",
+    "verbing": "cycling"
+  },
+  {
+    "no": "214",
+    "verb1": "damage",
+    "verb2": "damaged",
+    "verb3": "damaged",
+    "verbing": "damaging"
+  },
+  {
+    "no": "215",
+    "verb1": "damp",
+    "verb2": "damped",
+    "verb3": "damped",
+    "verbing": "damping"
+  },
+  {
+    "no": "216",
+    "verb1": "dance",
+    "verb2": "danced",
+    "verb3": "danced",
+    "verbing": "dancing"
+  },
+  {
+    "no": "217",
+    "verb1": "dare",
+    "verb2": "dared",
+    "verb3": "dared",
+    "verbing": "daring"
+  },
+  {
+    "no": "218",
+    "verb1": "dash",
+    "verb2": "dashed",
+    "verb3": "dashed",
+    "verbing": "dashing"
+  },
+  {
+    "no": "219",
+    "verb1": "dazzle",
+    "verb2": "dazzled",
+    "verb3": "dazzled",
+    "verbing": "dazzling"
+  },
+  {
+    "no": "220",
+    "verb1": "deal",
+    "verb2": "dealt",
+    "verb3": "dealt",
+    "verbing": "dealing"
+  },
+  {
+    "no": "221",
+    "verb1": "decay",
+    "verb2": "decayed",
+    "verb3": "decayed",
+    "verbing": "decaying"
+  },
+  {
+    "no": "222",
+    "verb1": "decide",
+    "verb2": "decided",
+    "verb3": "decided",
+    "verbing": "deciding"
+  },
+  {
+    "no": "223",
+    "verb1": "declare",
+    "verb2": "declared",
+    "verb3": "declared",
+    "verbing": "declaring"
+  },
+  {
+    "no": "224",
+    "verb1": "decorate",
+    "verb2": "decorated",
+    "verb3": "decorated",
+    "verbing": "decorating"
+  },
+  {
+    "no": "225",
+    "verb1": "decrease",
+    "verb2": "decreased",
+    "verb3": "decreased",
+    "verbing": "decreasing"
+  },
+  {
+    "no": "226",
+    "verb1": "dedicate",
+    "verb2": "dedicated",
+    "verb3": "dedicated",
+    "verbing": "dedicating"
+  },
+  {
+    "no": "227",
+    "verb1": "delay",
+    "verb2": "delayed",
+    "verb3": "delayed",
+    "verbing": "delaying"
+  },
+  {
+    "no": "228",
+    "verb1": "delete",
+    "verb2": "deleted",
+    "verb3": "deleted",
+    "verbing": "deleting"
+  },
+  {
+    "no": "229",
+    "verb1": "deny",
+    "verb2": "denied",
+    "verb3": "denied",
+    "verbing": "denying"
+  },
+  {
+    "no": "230",
+    "verb1": "depend",
+    "verb2": "depended",
+    "verb3": "depended",
+    "verbing": "depending"
+  },
+  {
+    "no": "231",
+    "verb1": "deprive",
+    "verb2": "deprived",
+    "verb3": "deprived",
+    "verbing": "depriving"
+  },
+  {
+    "no": "232",
+    "verb1": "derive",
+    "verb2": "derived",
+    "verb3": "derived",
+    "verbing": "deriving"
+  },
+  {
+    "no": "233",
+    "verb1": "describe",
+    "verb2": "described",
+    "verb3": "described",
+    "verbing": "describing"
+  },
+  {
+    "no": "234",
+    "verb1": "desire",
+    "verb2": "desired",
+    "verb3": "desired",
+    "verbing": "desiring"
+  },
+  {
+    "no": "235",
+    "verb1": "destroy",
+    "verb2": "destroyed",
+    "verb3": "destroyed",
+    "verbing": "destroying"
+  },
+  {
+    "no": "236",
+    "verb1": "detach",
+    "verb2": "detached",
+    "verb3": "detached",
+    "verbing": "detaching"
+  },
+  {
+    "no": "237",
+    "verb1": "detect",
+    "verb2": "detected",
+    "verb3": "detected",
+    "verbing": "detecting"
+  },
+  {
+    "no": "238",
+    "verb1": "determine",
+    "verb2": "determined",
+    "verb3": "determined",
+    "verbing": "determining"
+  },
+  {
+    "no": "239",
+    "verb1": "develop",
+    "verb2": "developed",
+    "verb3": "developed",
+    "verbing": "developing"
+  },
+  {
+    "no": "240",
+    "verb1": "die",
+    "verb2": "died",
+    "verb3": "died",
+    "verbing": "dying"
+  },
+  {
+    "no": "241",
+    "verb1": "differ",
+    "verb2": "differed",
+    "verb3": "differed",
+    "verbing": "differing"
+  },
+  {
+    "no": "242",
+    "verb1": "dig",
+    "verb2": "dug",
+    "verb3": "dug",
+    "verbing": "digging"
+  },
+  {
+    "no": "243",
+    "verb1": "digest",
+    "verb2": "digested",
+    "verb3": "digested",
+    "verbing": "digesting"
+  },
+  {
+    "no": "244",
+    "verb1": "dim",
+    "verb2": "dimmed",
+    "verb3": "dimmed",
+    "verbing": "dimming"
+  },
+  {
+    "no": "245",
+    "verb1": "diminish",
+    "verb2": "diminished",
+    "verb3": "diminished",
+    "verbing": "diminishing"
+  },
+  {
+    "no": "246",
+    "verb1": "dine",
+    "verb2": "dined",
+    "verb3": "dined",
+    "verbing": "dining"
+  },
+  {
+    "no": "247",
+    "verb1": "dip",
+    "verb2": "dipped",
+    "verb3": "dipped",
+    "verbing": "dipping"
+  },
+  {
+    "no": "248",
+    "verb1": "direct",
+    "verb2": "directed",
+    "verb3": "directed",
+    "verbing": "directing"
+  },
+  {
+    "no": "249",
+    "verb1": "disappear",
+    "verb2": "disappeared",
+    "verb3": "disappeared",
+    "verbing": "disappearing"
+  },
+  {
+    "no": "250",
+    "verb1": "discover",
+    "verb2": "discovered",
+    "verb3": "discovered",
+    "verbing": "discovering"
+  },
+  {
+    "no": "251",
+    "verb1": "discuss",
+    "verb2": "discussed",
+    "verb3": "discussed",
+    "verbing": "discussing"
+  },
+  {
+    "no": "252",
+    "verb1": "disobey",
+    "verb2": "disobeyed",
+    "verb3": "disobeyed",
+    "verbing": "disobeying"
+  },
+  {
+    "no": "253",
+    "verb1": "display",
+    "verb2": "displayed",
+    "verb3": "displayed",
+    "verbing": "displaying"
+  },
+  {
+    "no": "254",
+    "verb1": "dispose",
+    "verb2": "disposed",
+    "verb3": "disposed",
+    "verbing": "disposing"
+  },
+  {
+    "no": "255",
+    "verb1": "distribute",
+    "verb2": "distributed",
+    "verb3": "distributed",
+    "verbing": "distributing"
+  },
+  {
+    "no": "256",
+    "verb1": "disturb",
+    "verb2": "disturbed",
+    "verb3": "disturbed",
+    "verbing": "disturbing"
+  },
+  {
+    "no": "257",
+    "verb1": "disuse",
+    "verb2": "disused",
+    "verb3": "disused",
+    "verbing": "disusing"
+  },
+  {
+    "no": "258",
+    "verb1": "dive",
+    "verb2": "dived",
+    "verb3": "dived",
+    "verbing": "diving"
+  },
+  {
+    "no": "259",
+    "verb1": "divide",
+    "verb2": "divided",
+    "verb3": "divided",
+    "verbing": "dividing"
+  },
+  {
+    "no": "260",
+    "verb1": "do",
+    "verb2": "did",
+    "verb3": "done",
+    "verbing": "doing"
+  },
+  {
+    "no": "261",
+    "verb1": "donate",
+    "verb2": "donated",
+    "verb3": "donated",
+    "verbing": "donating"
+  },
+  {
+    "no": "262",
+    "verb1": "download",
+    "verb2": "downloaded",
+    "verb3": "downloaded",
+    "verbing": "downloading"
+  },
+  {
+    "no": "263",
+    "verb1": "drag",
+    "verb2": "dragged",
+    "verb3": "dragged",
+    "verbing": "dragging"
+  },
+  {
+    "no": "264",
+    "verb1": "draw",
+    "verb2": "drew",
+    "verb3": "drawn",
+    "verbing": "drawing"
+  },
+  {
+    "no": "265",
+    "verb1": "dream",
+    "verb2": "dreamt",
+    "verb3": "dreamt",
+    "verbing": "dreaming"
+  },
+  {
+    "no": "266",
+    "verb1": "dress",
+    "verb2": "dressed",
+    "verb3": "dressed",
+    "verbing": "dressing"
+  },
+  {
+    "no": "267",
+    "verb1": "drill",
+    "verb2": "drilled",
+    "verb3": "drilled",
+    "verbing": "drilling"
+  },
+  {
+    "no": "268",
+    "verb1": "drink",
+    "verb2": "drank",
+    "verb3": "drunk",
+    "verbing": "drinking"
+  },
+  {
+    "no": "269",
+    "verb1": "drive",
+    "verb2": "drove",
+    "verb3": "driven",
+    "verbing": "driving"
+  },
+  {
+    "no": "270",
+    "verb1": "drop",
+    "verb2": "dropped",
+    "verb3": "dropped",
+    "verbing": "dropping"
+  },
+  {
+    "no": "271",
+    "verb1": "dry",
+    "verb2": "dried",
+    "verb3": "dried",
+    "verbing": "drying"
+  },
+  {
+    "no": "272",
+    "verb1": "dump",
+    "verb2": "dumped",
+    "verb3": "dumped",
+    "verbing": "dumping"
+  },
+  {
+    "no": "273",
+    "verb1": "dwell",
+    "verb2": "dwelt",
+    "verb3": "dwelt",
+    "verbing": "dwelling"
+  },
+  {
+    "no": "274",
+    "verb1": "dye",
+    "verb2": "dyed",
+    "verb3": "dyed",
+    "verbing": "dyeing"
+  },
+  {
+    "no": "275",
+    "verb1": "earn",
+    "verb2": "earned",
+    "verb3": "earned",
+    "verbing": "earning"
+  },
+  {
+    "no": "276",
+    "verb1": "eat",
+    "verb2": "ate",
+    "verb3": "eaten",
+    "verbing": "eating"
+  },
+  {
+    "no": "277",
+    "verb1": "educate",
+    "verb2": "educated",
+    "verb3": "educated",
+    "verbing": "educating"
+  },
+  {
+    "no": "278",
+    "verb1": "empower",
+    "verb2": "empowered",
+    "verb3": "empowered",
+    "verbing": "empowering"
+  },
+  {
+    "no": "279",
+    "verb1": "empty",
+    "verb2": "emptied",
+    "verb3": "emptied",
+    "verbing": "emptying"
+  },
+  {
+    "no": "280",
+    "verb1": "encircle",
+    "verb2": "encircled",
+    "verb3": "encircled",
+    "verbing": "encircling"
+  },
+  {
+    "no": "281",
+    "verb1": "encourage",
+    "verb2": "encouraged",
+    "verb3": "encouraged",
+    "verbing": "encouraging"
+  },
+  {
+    "no": "282",
+    "verb1": "encroach",
+    "verb2": "encroached",
+    "verb3": "encroached",
+    "verbing": "encroaching"
+  },
+  {
+    "no": "283",
+    "verb1": "endanger",
+    "verb2": "endangered",
+    "verb3": "endangered",
+    "verbing": "entangling"
+  },
+  {
+    "no": "284",
+    "verb1": "endorse",
+    "verb2": "endorsed",
+    "verb3": "endorsed",
+    "verbing": "endorsing"
+  },
+  {
+    "no": "285",
+    "verb1": "endure",
+    "verb2": "endured",
+    "verb3": "endured",
+    "verbing": "enduring"
+  },
+  {
+    "no": "286",
+    "verb1": "engrave",
+    "verb2": "engraved",
+    "verb3": "engraved",
+    "verbing": "engraving"
+  },
+  {
+    "no": "287",
+    "verb1": "enjoy",
+    "verb2": "enjoyed",
+    "verb3": "enjoyed",
+    "verbing": "enjoying"
+  },
+  {
+    "no": "288",
+    "verb1": "enlarge",
+    "verb2": "enlarged",
+    "verb3": "enlarged",
+    "verbing": "enlarging"
+  },
+  {
+    "no": "289",
+    "verb1": "enlighten",
+    "verb2": "enlightened",
+    "verb3": "enlightened",
+    "verbing": "enlightening"
+  },
+  {
+    "no": "290",
+    "verb1": "enter",
+    "verb2": "entered",
+    "verb3": "entered",
+    "verbing": "entering"
+  },
+  {
+    "no": "291",
+    "verb1": "envy",
+    "verb2": "envied",
+    "verb3": "envied",
+    "verbing": "envying"
+  },
+  {
+    "no": "292",
+    "verb1": "erase",
+    "verb2": "erased",
+    "verb3": "erased",
+    "verbing": "erasing"
+  },
+  {
+    "no": "293",
+    "verb1": "escape",
+    "verb2": "escaped",
+    "verb3": "escaped",
+    "verbing": "escaping"
+  },
+  {
+    "no": "294",
+    "verb1": "evaporate",
+    "verb2": "evaporated",
+    "verb3": "evaporated",
+    "verbing": "evaporating"
+  },
+  {
+    "no": "295",
+    "verb1": "exchange",
+    "verb2": "exchanged",
+    "verb3": "exchanged",
+    "verbing": "exchanging"
+  },
+  {
+    "no": "296",
+    "verb1": "exclaim",
+    "verb2": "exclaimed",
+    "verb3": "exclaimed",
+    "verbing": "exclaiming"
+  },
+  {
+    "no": "297",
+    "verb1": "exclude",
+    "verb2": "excluded",
+    "verb3": "excluded",
+    "verbing": "excluding"
+  },
+  {
+    "no": "298",
+    "verb1": "exist",
+    "verb2": "existed",
+    "verb3": "existed",
+    "verbing": "existing"
+  },
+  {
+    "no": "299",
+    "verb1": "expand",
+    "verb2": "expanded",
+    "verb3": "expanded",
+    "verbing": "expanding"
+  },
+  {
+    "no": "300",
+    "verb1": "expect",
+    "verb2": "expected",
+    "verb3": "expected",
+    "verbing": "expecting"
+  },
+  {
+    "no": "301",
+    "verb1": "explain",
+    "verb2": "explained",
+    "verb3": "explained",
+    "verbing": "explaining"
+  },
+  {
+    "no": "302",
+    "verb1": "explore",
+    "verb2": "explored",
+    "verb3": "explored",
+    "verbing": "exploring"
+  },
+  {
+    "no": "303",
+    "verb1": "express",
+    "verb2": "expressed",
+    "verb3": "expressed",
+    "verbing": "expressing"
+  },
+  {
+    "no": "304",
+    "verb1": "extend",
+    "verb2": "extended",
+    "verb3": "extended",
+    "verbing": "extending"
+  },
+  {
+    "no": "305",
+    "verb1": "eye",
+    "verb2": "eyed",
+    "verb3": "eyed",
+    "verbing": "eyeing"
+  },
+  {
+    "no": "306",
+    "verb1": "face",
+    "verb2": "faced",
+    "verb3": "faced",
+    "verbing": "facing"
+  },
+  {
+    "no": "307",
+    "verb1": "fail",
+    "verb2": "failed",
+    "verb3": "failed",
+    "verbing": "failing"
+  },
+  {
+    "no": "308",
+    "verb1": "faint",
+    "verb2": "fainted",
+    "verb3": "fainted",
+    "verbing": "fainting"
+  },
+  {
+    "no": "309",
+    "verb1": "fall",
+    "verb2": "fell",
+    "verb3": "fallen",
+    "verbing": "falling"
+  },
+  {
+    "no": "310",
+    "verb1": "fan",
+    "verb2": "fanned",
+    "verb3": "fanned",
+    "verbing": "fanning"
+  },
+  {
+    "no": "311",
+    "verb1": "fancy",
+    "verb2": "fancied",
+    "verb3": "fancied",
+    "verbing": "fancying"
+  },
+  {
+    "no": "312",
+    "verb1": "favour",
+    "verb2": "favoured",
+    "verb3": "favoured",
+    "verbing": "favouring"
+  },
+  {
+    "no": "313",
+    "verb1": "fax",
+    "verb2": "faxed",
+    "verb3": "faxed",
+    "verbing": "faxing"
+  },
+  {
+    "no": "314",
+    "verb1": "feed",
+    "verb2": "fed",
+    "verb3": "fed",
+    "verbing": "feeding"
+  },
+  {
+    "no": "315",
+    "verb1": "feel",
+    "verb2": "felt",
+    "verb3": "felt",
+    "verbing": "feeling"
+  },
+  {
+    "no": "316",
+    "verb1": "ferry",
+    "verb2": "ferried",
+    "verb3": "ferried",
+    "verbing": "ferrying"
+  },
+  {
+    "no": "317",
+    "verb1": "fetch",
+    "verb2": "fetched",
+    "verb3": "fetched",
+    "verbing": "fetching"
+  },
+  {
+    "no": "318",
+    "verb1": "fight",
+    "verb2": "fought",
+    "verb3": "fought",
+    "verbing": "fighting"
+  },
+  {
+    "no": "319",
+    "verb1": "fill",
+    "verb2": "filled",
+    "verb3": "filled",
+    "verbing": "filling"
+  },
+  {
+    "no": "320",
+    "verb1": "find",
+    "verb2": "found",
+    "verb3": "found",
+    "verbing": "finding"
+  },
+  {
+    "no": "321",
+    "verb1": "finish",
+    "verb2": "finished",
+    "verb3": "finished",
+    "verbing": "finishing"
+  },
+  {
+    "no": "322",
+    "verb1": "fish",
+    "verb2": "fished",
+    "verb3": "fished",
+    "verbing": "fishing"
+  },
+  {
+    "no": "323",
+    "verb1": "fit",
+    "verb2": "fit/fitted",
+    "verb3": "fit/fitted",
+    "verbing": "fitting"
+  },
+  {
+    "no": "324",
+    "verb1": "fix",
+    "verb2": "fixed",
+    "verb3": "fixed",
+    "verbing": "fixing"
+  },
+  {
+    "no": "325",
+    "verb1": "fizz",
+    "verb2": "fizzed",
+    "verb3": "fizzed",
+    "verbing": "fizzing"
+  },
+  {
+    "no": "326",
+    "verb1": "flap",
+    "verb2": "flapped",
+    "verb3": "flapped",
+    "verbing": "flapping"
+  },
+  {
+    "no": "327",
+    "verb1": "flash",
+    "verb2": "flashed",
+    "verb3": "flashed",
+    "verbing": "flashing"
+  },
+  {
+    "no": "328",
+    "verb1": "flee",
+    "verb2": "fled",
+    "verb3": "fled",
+    "verbing": "fleeing"
+  },
+  {
+    "no": "329",
+    "verb1": "fling",
+    "verb2": "flung",
+    "verb3": "flung",
+    "verbing": "flinging"
+  },
+  {
+    "no": "330",
+    "verb1": "float",
+    "verb2": "floated",
+    "verb3": "floated",
+    "verbing": "floating"
+  },
+  {
+    "no": "331",
+    "verb1": "flop",
+    "verb2": "flopped",
+    "verb3": "flopped",
+    "verbing": "flopping"
+  },
+  {
+    "no": "332",
+    "verb1": "fly",
+    "verb2": "flew",
+    "verb3": "flown",
+    "verbing": "flying"
+  },
+  {
+    "no": "333",
+    "verb1": "fold",
+    "verb2": "folded",
+    "verb3": "folded",
+    "verbing": "folding"
+  },
+  {
+    "no": "334",
+    "verb1": "follow",
+    "verb2": "followed",
+    "verb3": "followed",
+    "verbing": "following"
+  },
+  {
+    "no": "335",
+    "verb1": "forbid",
+    "verb2": "forbade",
+    "verb3": "forbidden",
+    "verbing": "forbidding"
+  },
+  {
+    "no": "336",
+    "verb1": "force",
+    "verb2": "forced",
+    "verb3": "forced",
+    "verbing": "forcing"
+  },
+  {
+    "no": "337",
+    "verb1": "forecast",
+    "verb2": "forecast",
+    "verb3": "forecast",
+    "verbing": "forecasting"
+  },
+  {
+    "no": "338",
+    "verb1": "foretell",
+    "verb2": "foretold",
+    "verb3": "foretold",
+    "verbing": "foretelling"
+  },
+  {
+    "no": "339",
+    "verb1": "forget",
+    "verb2": "forgot",
+    "verb3": "forgotten",
+    "verbing": "forgetting"
+  },
+  {
+    "no": "340",
+    "verb1": "forgive",
+    "verb2": "forgave",
+    "verb3": "forgiven",
+    "verbing": "forgiving"
+  },
+  {
+    "no": "341",
+    "verb1": "forlese",
+    "verb2": "forlore",
+    "verb3": "forlorn",
+    "verbing": "forlesing"
+  },
+  {
+    "no": "342",
+    "verb1": "form",
+    "verb2": "formed",
+    "verb3": "formed",
+    "verbing": "forming"
+  },
+  {
+    "no": "343",
+    "verb1": "forsake",
+    "verb2": "forsook",
+    "verb3": "forsaken",
+    "verbing": "forsaking"
+  },
+  {
+    "no": "344",
+    "verb1": "found",
+    "verb2": "founded",
+    "verb3": "founded",
+    "verbing": "founding"
+  },
+  {
+    "no": "345",
+    "verb1": "frame",
+    "verb2": "framed",
+    "verb3": "framed",
+    "verbing": "framing"
+  },
+  {
+    "no": "346",
+    "verb1": "free",
+    "verb2": "freed",
+    "verb3": "freed",
+    "verbing": "freeing"
+  },
+  {
+    "no": "347",
+    "verb1": "freeze",
+    "verb2": "froze",
+    "verb3": "frozen",
+    "verbing": "freezing"
+  },
+  {
+    "no": "348",
+    "verb1": "frighten",
+    "verb2": "frightened",
+    "verb3": "frightened",
+    "verbing": "frightening"
+  },
+  {
+    "no": "349",
+    "verb1": "fry",
+    "verb2": "fried",
+    "verb3": "fried",
+    "verbing": "frying"
+  },
+  {
+    "no": "350",
+    "verb1": "fulfil",
+    "verb2": "fulfilled",
+    "verb3": "fulfilled",
+    "verbing": "fulfilling"
+  },
+  {
+    "no": "351",
+    "verb1": "gag",
+    "verb2": "gagged",
+    "verb3": "gagged",
+    "verbing": "gagging"
+  },
+  {
+    "no": "352",
+    "verb1": "gain",
+    "verb2": "gained",
+    "verb3": "gained",
+    "verbing": "gaining"
+  },
+  {
+    "no": "353",
+    "verb1": "gainsay",
+    "verb2": "gainsaid",
+    "verb3": "gainsaid",
+    "verbing": "gainsaying"
+  },
+  {
+    "no": "354",
+    "verb1": "gash",
+    "verb2": "gashed",
+    "verb3": "gashed",
+    "verbing": "gashing"
+  },
+  {
+    "no": "355",
+    "verb1": "gaze",
+    "verb2": "gazed",
+    "verb3": "gazed",
+    "verbing": "gazing"
+  },
+  {
+    "no": "356",
+    "verb1": "get",
+    "verb2": "got",
+    "verb3": "got",
+    "verbing": "getting"
+  },
+  {
+    "no": "357",
+    "verb1": "give",
+    "verb2": "gave",
+    "verb3": "given",
+    "verbing": "giving"
+  },
+  {
+    "no": "358",
+    "verb1": "glance",
+    "verb2": "glanced",
+    "verb3": "glanced",
+    "verbing": "glancing"
+  },
+  {
+    "no": "359",
+    "verb1": "glitter",
+    "verb2": "glittered",
+    "verb3": "glittered",
+    "verbing": "glittering"
+  },
+  {
+    "no": "360",
+    "verb1": "glow",
+    "verb2": "glowed",
+    "verb3": "glowed",
+    "verbing": "glowing"
+  },
+  {
+    "no": "361",
+    "verb1": "go",
+    "verb2": "went",
+    "verb3": "gone",
+    "verbing": "going"
+  },
+  {
+    "no": "362",
+    "verb1": "google",
+    "verb2": "googled",
+    "verb3": "googled",
+    "verbing": "googling"
+  },
+  {
+    "no": "363",
+    "verb1": "govern",
+    "verb2": "governed",
+    "verb3": "governed",
+    "verbing": "governing"
+  },
+  {
+    "no": "364",
+    "verb1": "grab",
+    "verb2": "grabbed",
+    "verb3": "grabbed",
+    "verbing": "grabbing"
+  },
+  {
+    "no": "365",
+    "verb1": "grade",
+    "verb2": "graded",
+    "verb3": "graded",
+    "verbing": "grading"
+  },
+  {
+    "no": "366",
+    "verb1": "grant",
+    "verb2": "granted",
+    "verb3": "granted",
+    "verbing": "granting"
+  },
+  {
+    "no": "367",
+    "verb1": "greet",
+    "verb2": "greeted",
+    "verb3": "greeted",
+    "verbing": "greeting"
+  },
+  {
+    "no": "368",
+    "verb1": "grind",
+    "verb2": "ground",
+    "verb3": "ground",
+    "verbing": "grinding"
+  },
+  {
+    "no": "369",
+    "verb1": "grip",
+    "verb2": "gripped",
+    "verb3": "gripped",
+    "verbing": "gripping"
+  },
+  {
+    "no": "370",
+    "verb1": "grow",
+    "verb2": "grew",
+    "verb3": "grown",
+    "verbing": "growing"
+  },
+  {
+    "no": "371",
+    "verb1": "guard",
+    "verb2": "guarded",
+    "verb3": "guarded",
+    "verbing": "guarding"
+  },
+  {
+    "no": "372",
+    "verb1": "guess",
+    "verb2": "guessed",
+    "verb3": "guessed",
+    "verbing": "guessing"
+  },
+  {
+    "no": "373",
+    "verb1": "guide",
+    "verb2": "guided",
+    "verb3": "guided",
+    "verbing": "guiding"
+  },
+  {
+    "no": "374",
+    "verb1": "handle",
+    "verb2": "handled",
+    "verb3": "handled",
+    "verbing": "handling"
+  },
+  {
+    "no": "375",
+    "verb1": "hang",
+    "verb2": "hung",
+    "verb3": "hung",
+    "verbing": "hanging"
+  },
+  {
+    "no": "376",
+    "verb1": "happen",
+    "verb2": "happened",
+    "verb3": "happened",
+    "verbing": "happening"
+  },
+  {
+    "no": "377",
+    "verb1": "harm",
+    "verb2": "harmed",
+    "verb3": "harmed",
+    "verbing": "harming"
+  },
+  {
+    "no": "378",
+    "verb1": "hatch",
+    "verb2": "hatched",
+    "verb3": "hatched",
+    "verbing": "hatching"
+  },
+  {
+    "no": "379",
+    "verb1": "hate",
+    "verb2": "hated",
+    "verb3": "hated",
+    "verbing": "hating"
+  },
+  {
+    "no": "380",
+    "verb1": "have",
+    "verb2": "had",
+    "verb3": "had",
+    "verbing": "having"
+  },
+  {
+    "no": "381",
+    "verb1": "heal",
+    "verb2": "healed",
+    "verb3": "healed",
+    "verbing": "healing"
+  },
+  {
+    "no": "382",
+    "verb1": "hear",
+    "verb2": "heard",
+    "verb3": "heard",
+    "verbing": "hearing"
+  },
+  {
+    "no": "383",
+    "verb1": "heave",
+    "verb2": "hove",
+    "verb3": "hove",
+    "verbing": "heaving"
+  },
+  {
+    "no": "384",
+    "verb1": "help",
+    "verb2": "helped",
+    "verb3": "helped",
+    "verbing": "helping"
+  },
+  {
+    "no": "385",
+    "verb1": "hew",
+    "verb2": "hewed",
+    "verb3": "hewn",
+    "verbing": "hewing"
+  },
+  {
+    "no": "386",
+    "verb1": "hide",
+    "verb2": "hid",
+    "verb3": "hidden",
+    "verbing": "hiding"
+  },
+  {
+    "no": "387",
+    "verb1": "hinder",
+    "verb2": "hindered",
+    "verb3": "hindered",
+    "verbing": "hindering"
+  },
+  {
+    "no": "388",
+    "verb1": "hiss",
+    "verb2": "hissed",
+    "verb3": "hissed",
+    "verbing": "hissing"
+  },
+  {
+    "no": "389",
+    "verb1": "hit",
+    "verb2": "hit",
+    "verb3": "hit",
+    "verbing": "hitting"
+  },
+  {
+    "no": "390",
+    "verb1": "hoax",
+    "verb2": "hoaxed",
+    "verb3": "hoaxed",
+    "verbing": "hoaxing"
+  },
+  {
+    "no": "391",
+    "verb1": "hold",
+    "verb2": "held",
+    "verb3": "held",
+    "verbing": "holding"
+  },
+  {
+    "no": "392",
+    "verb1": "hop",
+    "verb2": "hopped",
+    "verb3": "hopped",
+    "verbing": "hopping"
+  },
+  {
+    "no": "393",
+    "verb1": "hope",
+    "verb2": "hoped",
+    "verb3": "hoped",
+    "verbing": "hoping"
+  },
+  {
+    "no": "394",
+    "verb1": "horrify",
+    "verb2": "horrified",
+    "verb3": "horrified",
+    "verbing": "horrifying"
+  },
+  {
+    "no": "395",
+    "verb1": "hug",
+    "verb2": "hugged",
+    "verb3": "hugged",
+    "verbing": "hugging"
+  },
+  {
+    "no": "396",
+    "verb1": "hum",
+    "verb2": "hummed",
+    "verb3": "hummed",
+    "verbing": "humming"
+  },
+  {
+    "no": "397",
+    "verb1": "humiliate",
+    "verb2": "humiliated",
+    "verb3": "humiliated",
+    "verbing": "humiliating"
+  },
+  {
+    "no": "398",
+    "verb1": "hunt",
+    "verb2": "hunted",
+    "verb3": "hunted",
+    "verbing": "hunting"
+  },
+  {
+    "no": "399",
+    "verb1": "hurl",
+    "verb2": "hurled",
+    "verb3": "hurled",
+    "verbing": "hurling"
+  },
+  {
+    "no": "400",
+    "verb1": "hurry",
+    "verb2": "hurried",
+    "verb3": "hurried",
+    "verbing": "hurrying"
+  },
+  {
+    "no": "401",
+    "verb1": "hurt",
+    "verb2": "hurt",
+    "verb3": "hurt",
+    "verbing": "hurting"
+  },
+  {
+    "no": "402",
+    "verb1": "hush",
+    "verb2": "hushed",
+    "verb3": "hushed",
+    "verbing": "hushing"
+  },
+  {
+    "no": "403",
+    "verb1": "hustle",
+    "verb2": "hustled",
+    "verb3": "hustled",
+    "verbing": "hustling"
+  },
+  {
+    "no": "404",
+    "verb1": "hypnotize",
+    "verb2": "hypnotized",
+    "verb3": "hypnotized",
+    "verbing": "hypnotizing"
+  },
+  {
+    "no": "405",
+    "verb1": "idealize",
+    "verb2": "idealized",
+    "verb3": "idealized",
+    "verbing": "idealizing"
+  },
+  {
+    "no": "406",
+    "verb1": "identify",
+    "verb2": "identified",
+    "verb3": "identified",
+    "verbing": "identifying"
+  },
+  {
+    "no": "407",
+    "verb1": "idolize",
+    "verb2": "idolized",
+    "verb3": "idolized",
+    "verbing": "idolizing"
+  },
+  {
+    "no": "408",
+    "verb1": "ignite",
+    "verb2": "ignited",
+    "verb3": "ignited",
+    "verbing": "igniting"
+  },
+  {
+    "no": "409",
+    "verb1": "ignore",
+    "verb2": "ignored",
+    "verb3": "ignored",
+    "verbing": "ignoring"
+  },
+  {
+    "no": "410",
+    "verb1": "ill-treat",
+    "verb2": "ill-treated",
+    "verb3": "ill-treated",
+    "verbing": "ill-treating"
+  },
+  {
+    "no": "411",
+    "verb1": "illuminate",
+    "verb2": "illuminated",
+    "verb3": "illuminated",
+    "verbing": "illuminating"
+  },
+  {
+    "no": "412",
+    "verb1": "illumine",
+    "verb2": "illumined",
+    "verb3": "illumined",
+    "verbing": "illumining"
+  },
+  {
+    "no": "413",
+    "verb1": "illustrate",
+    "verb2": "illustrated",
+    "verb3": "illustrated",
+    "verbing": "illustrating"
+  },
+  {
+    "no": "414",
+    "verb1": "imagine",
+    "verb2": "imagined",
+    "verb3": "imagined",
+    "verbing": "imagining"
+  },
+  {
+    "no": "415",
+    "verb1": "imbibe",
+    "verb2": "imbibed",
+    "verb3": "imbibed",
+    "verbing": "imbibing"
+  },
+  {
+    "no": "416",
+    "verb1": "imitate",
+    "verb2": "imitated",
+    "verb3": "imitated",
+    "verbing": "imitating"
+  },
+  {
+    "no": "417",
+    "verb1": "immerse",
+    "verb2": "immersed",
+    "verb3": "immersed",
+    "verbing": "immersing"
+  },
+  {
+    "no": "418",
+    "verb1": "immolate",
+    "verb2": "immolated",
+    "verb3": "immolated",
+    "verbing": "immolating"
+  },
+  {
+    "no": "419",
+    "verb1": "immure",
+    "verb2": "immured",
+    "verb3": "immured",
+    "verbing": "immuring"
+  },
+  {
+    "no": "420",
+    "verb1": "impair",
+    "verb2": "impaired",
+    "verb3": "impaired",
+    "verbing": "impairing"
+  },
+  {
+    "no": "421",
+    "verb1": "impart",
+    "verb2": "imparted",
+    "verb3": "imparted",
+    "verbing": "imparting"
+  },
+  {
+    "no": "422",
+    "verb1": "impeach",
+    "verb2": "impeached",
+    "verb3": "impeached",
+    "verbing": "impeaching"
+  },
+  {
+    "no": "423",
+    "verb1": "impede",
+    "verb2": "impeded",
+    "verb3": "impeded",
+    "verbing": "impeding"
+  },
+  {
+    "no": "424",
+    "verb1": "impel",
+    "verb2": "impelled",
+    "verb3": "impelled",
+    "verbing": "impelling"
+  },
+  {
+    "no": "425",
+    "verb1": "impend",
+    "verb2": "impended",
+    "verb3": "impended",
+    "verbing": "impending"
+  },
+  {
+    "no": "426",
+    "verb1": "imperil",
+    "verb2": "imperilled",
+    "verb3": "imperilled",
+    "verbing": "imperilling"
+  },
+  {
+    "no": "427",
+    "verb1": "impinge",
+    "verb2": "impinged",
+    "verb3": "impinged",
+    "verbing": "impinging"
+  },
+  {
+    "no": "428",
+    "verb1": "implant",
+    "verb2": "implanted",
+    "verb3": "implanted",
+    "verbing": "implanting"
+  },
+  {
+    "no": "429",
+    "verb1": "implicate",
+    "verb2": "implicated",
+    "verb3": "implicated",
+    "verbing": "implicating"
+  },
+  {
+    "no": "430",
+    "verb1": "implode",
+    "verb2": "imploded",
+    "verb3": "imploded",
+    "verbing": "imploding"
+  },
+  {
+    "no": "431",
+    "verb1": "implore",
+    "verb2": "implored",
+    "verb3": "implored",
+    "verbing": "imploring"
+  },
+  {
+    "no": "432",
+    "verb1": "imply",
+    "verb2": "implied",
+    "verb3": "implied",
+    "verbing": "implying"
+  },
+  {
+    "no": "433",
+    "verb1": "import",
+    "verb2": "imported",
+    "verb3": "imported",
+    "verbing": "importing"
+  },
+  {
+    "no": "434",
+    "verb1": "impose",
+    "verb2": "imposed",
+    "verb3": "imposed",
+    "verbing": "imposing"
+  },
+  {
+    "no": "435",
+    "verb1": "impress",
+    "verb2": "impressed",
+    "verb3": "impressed",
+    "verbing": "impressing"
+  },
+  {
+    "no": "436",
+    "verb1": "imprint",
+    "verb2": "imprinted",
+    "verb3": "imprinted",
+    "verbing": "imprinting"
+  },
+  {
+    "no": "437",
+    "verb1": "imprison",
+    "verb2": "imprisoned",
+    "verb3": "imprisoned",
+    "verbing": "imprisoning"
+  },
+  {
+    "no": "438",
+    "verb1": "improve",
+    "verb2": "improved",
+    "verb3": "improved",
+    "verbing": "improving"
+  },
+  {
+    "no": "439",
+    "verb1": "inaugurate",
+    "verb2": "inaugurated",
+    "verb3": "inaugurated",
+    "verbing": "inaugurating"
+  },
+  {
+    "no": "440",
+    "verb1": "incise",
+    "verb2": "incised",
+    "verb3": "incised",
+    "verbing": "incising"
+  },
+  {
+    "no": "441",
+    "verb1": "include",
+    "verb2": "included",
+    "verb3": "included",
+    "verbing": "including"
+  },
+  {
+    "no": "442",
+    "verb1": "increase",
+    "verb2": "increased",
+    "verb3": "increased",
+    "verbing": "increasing"
+  },
+  {
+    "no": "443",
+    "verb1": "inculcate",
+    "verb2": "inculcated",
+    "verb3": "inculcated",
+    "verbing": "inculcating"
+  },
+  {
+    "no": "444",
+    "verb1": "indent",
+    "verb2": "indented",
+    "verb3": "indented",
+    "verbing": "indenting"
+  },
+  {
+    "no": "445",
+    "verb1": "indicate",
+    "verb2": "indicated",
+    "verb3": "indicated",
+    "verbing": "indicating"
+  },
+  {
+    "no": "446",
+    "verb1": "induce",
+    "verb2": "induced",
+    "verb3": "induced",
+    "verbing": "inducing"
+  },
+  {
+    "no": "447",
+    "verb1": "indulge",
+    "verb2": "indulged",
+    "verb3": "indulged",
+    "verbing": "indulging"
+  },
+  {
+    "no": "448",
+    "verb1": "infect",
+    "verb2": "infected",
+    "verb3": "infected",
+    "verbing": "infecting"
+  },
+  {
+    "no": "449",
+    "verb1": "infest",
+    "verb2": "infested",
+    "verb3": "infested",
+    "verbing": "infesting"
+  },
+  {
+    "no": "450",
+    "verb1": "inflame",
+    "verb2": "inflamed",
+    "verb3": "inflamed",
+    "verbing": "inflaming"
+  },
+  {
+    "no": "451",
+    "verb1": "inflate",
+    "verb2": "inflated",
+    "verb3": "inflated",
+    "verbing": "inflating"
+  },
+  {
+    "no": "452",
+    "verb1": "inflect",
+    "verb2": "inflected",
+    "verb3": "inflected",
+    "verbing": "inflecting"
+  },
+  {
+    "no": "453",
+    "verb1": "inform",
+    "verb2": "informed",
+    "verb3": "informed",
+    "verbing": "informing"
+  },
+  {
+    "no": "454",
+    "verb1": "infringe",
+    "verb2": "infringed",
+    "verb3": "infringed",
+    "verbing": "infringing"
+  },
+  {
+    "no": "455",
+    "verb1": "infuse",
+    "verb2": "infused",
+    "verb3": "infused",
+    "verbing": "infusing"
+  },
+  {
+    "no": "456",
+    "verb1": "ingest",
+    "verb2": "ingested",
+    "verb3": "ingested",
+    "verbing": "ingesting"
+  },
+  {
+    "no": "457",
+    "verb1": "inhabit",
+    "verb2": "inhabited",
+    "verb3": "inhabited",
+    "verbing": "inhabiting"
+  },
+  {
+    "no": "458",
+    "verb1": "inhale",
+    "verb2": "inhaled",
+    "verb3": "inhaled",
+    "verbing": "inhaling"
+  },
+  {
+    "no": "459",
+    "verb1": "inherit",
+    "verb2": "inherited",
+    "verb3": "inherited",
+    "verbing": "inheriting"
+  },
+  {
+    "no": "460",
+    "verb1": "initiate",
+    "verb2": "initiated",
+    "verb3": "initiated",
+    "verbing": "initiating"
+  },
+  {
+    "no": "461",
+    "verb1": "inject",
+    "verb2": "injected",
+    "verb3": "injected",
+    "verbing": "injecting"
+  },
+  {
+    "no": "462",
+    "verb1": "injure",
+    "verb2": "injured",
+    "verb3": "injured",
+    "verbing": "injuring"
+  },
+  {
+    "no": "463",
+    "verb1": "inlay",
+    "verb2": "inlaid",
+    "verb3": "inlaid",
+    "verbing": "inlaying"
+  },
+  {
+    "no": "464",
+    "verb1": "innovate",
+    "verb2": "innovated",
+    "verb3": "innovated",
+    "verbing": "innovating"
+  },
+  {
+    "no": "465",
+    "verb1": "input",
+    "verb2": "input",
+    "verb3": "input",
+    "verbing": "inputting"
+  },
+  {
+    "no": "466",
+    "verb1": "inquire",
+    "verb2": "inquired",
+    "verb3": "inquired",
+    "verbing": "inquiring"
+  },
+  {
+    "no": "467",
+    "verb1": "inscribe",
+    "verb2": "inscribed",
+    "verb3": "inscribed",
+    "verbing": "inscribing"
+  },
+  {
+    "no": "468",
+    "verb1": "insert",
+    "verb2": "inserted",
+    "verb3": "inserted",
+    "verbing": "inserting"
+  },
+  {
+    "no": "469",
+    "verb1": "inspect",
+    "verb2": "inspected",
+    "verb3": "inspected",
+    "verbing": "inspecting"
+  },
+  {
+    "no": "470",
+    "verb1": "inspire",
+    "verb2": "inspired",
+    "verb3": "inspired",
+    "verbing": "inspiring"
+  },
+  {
+    "no": "471",
+    "verb1": "install",
+    "verb2": "installed",
+    "verb3": "installed",
+    "verbing": "installing"
+  },
+  {
+    "no": "472",
+    "verb1": "insult",
+    "verb2": "insulted",
+    "verb3": "insulted",
+    "verbing": "insulting"
+  },
+  {
+    "no": "473",
+    "verb1": "insure",
+    "verb2": "insured",
+    "verb3": "insured",
+    "verbing": "insuring"
+  },
+  {
+    "no": "474",
+    "verb1": "integrate",
+    "verb2": "integrated",
+    "verb3": "integrated",
+    "verbing": "integrating"
+  },
+  {
+    "no": "475",
+    "verb1": "introduce",
+    "verb2": "introduced",
+    "verb3": "introduced",
+    "verbing": "introducing"
+  },
+  {
+    "no": "476",
+    "verb1": "invent",
+    "verb2": "invented",
+    "verb3": "invented",
+    "verbing": "inventing"
+  },
+  {
+    "no": "477",
+    "verb1": "invite",
+    "verb2": "invited",
+    "verb3": "invited",
+    "verbing": "inviting"
+  },
+  {
+    "no": "478",
+    "verb1": "join",
+    "verb2": "joined",
+    "verb3": "joined",
+    "verbing": "joining"
+  },
+  {
+    "no": "479",
+    "verb1": "jump",
+    "verb2": "jumped",
+    "verb3": "jumped",
+    "verbing": "jumping"
+  },
+  {
+    "no": "480",
+    "verb1": "justify",
+    "verb2": "justified",
+    "verb3": "justified",
+    "verbing": "justifying"
+  },
+  {
+    "no": "481",
+    "verb1": "keep",
+    "verb2": "kept",
+    "verb3": "kept",
+    "verbing": "keeping"
+  },
+  {
+    "no": "482",
+    "verb1": "kick",
+    "verb2": "kicked",
+    "verb3": "kicked",
+    "verbing": "kicking"
+  },
+  {
+    "no": "483",
+    "verb1": "kid",
+    "verb2": "kidded",
+    "verb3": "kidded",
+    "verbing": "kidding"
+  },
+  {
+    "no": "484",
+    "verb1": "kill",
+    "verb2": "killed",
+    "verb3": "killed",
+    "verbing": "killing"
+  },
+  {
+    "no": "485",
+    "verb1": "kiss",
+    "verb2": "kissed",
+    "verb3": "kissed",
+    "verbing": "kissing"
+  },
+  {
+    "no": "486",
+    "verb1": "kneel",
+    "verb2": "knelt",
+    "verb3": "knelt",
+    "verbing": "kneeling"
+  },
+  {
+    "no": "487",
+    "verb1": "knit",
+    "verb2": "knit",
+    "verb3": "knit",
+    "verbing": "knitting"
+  },
+  {
+    "no": "488",
+    "verb1": "knock",
+    "verb2": "knocked",
+    "verb3": "knocked",
+    "verbing": "knocking"
+  },
+  {
+    "no": "489",
+    "verb1": "know",
+    "verb2": "knew",
+    "verb3": "known",
+    "verbing": "knowing"
+  },
+  {
+    "no": "490",
+    "verb1": "lade",
+    "verb2": "laded",
+    "verb3": "laden",
+    "verbing": "lading"
+  },
+  {
+    "no": "491",
+    "verb1": "land",
+    "verb2": "landed",
+    "verb3": "landed",
+    "verbing": "landing"
+  },
+  {
+    "no": "492",
+    "verb1": "last",
+    "verb2": "lasted",
+    "verb3": "lasted",
+    "verbing": "lasting"
+  },
+  {
+    "no": "493",
+    "verb1": "latch",
+    "verb2": "latched",
+    "verb3": "latched",
+    "verbing": "latching"
+  },
+  {
+    "no": "494",
+    "verb1": "laugh",
+    "verb2": "laughed",
+    "verb3": "laughed",
+    "verbing": "laughing"
+  },
+  {
+    "no": "495",
+    "verb1": "lay",
+    "verb2": "laid",
+    "verb3": "laid",
+    "verbing": "laying"
+  },
+  {
+    "no": "496",
+    "verb1": "lead",
+    "verb2": "led",
+    "verb3": "led",
+    "verbing": "leading"
+  },
+  {
+    "no": "497",
+    "verb1": "leak",
+    "verb2": "leaked",
+    "verb3": "leaked",
+    "verbing": "leaking"
+  },
+  {
+    "no": "498",
+    "verb1": "lean",
+    "verb2": "leant",
+    "verb3": "leant",
+    "verbing": "leaning"
+  },
+  {
+    "no": "499",
+    "verb1": "leap",
+    "verb2": "leapt",
+    "verb3": "leapt",
+    "verbing": "leaping"
+  },
+  {
+    "no": "500",
+    "verb1": "learn",
+    "verb2": "learnt",
+    "verb3": "learnt",
+    "verbing": "learning"
+  },
+  {
+    "no": "501",
+    "verb1": "leave",
+    "verb2": "left",
+    "verb3": "left",
+    "verbing": "leaving"
+  },
+  {
+    "no": "502",
+    "verb1": "leer",
+    "verb2": "leered",
+    "verb3": "leered",
+    "verbing": "leering"
+  },
+  {
+    "no": "503",
+    "verb1": "lend",
+    "verb2": "lent",
+    "verb3": "lent",
+    "verbing": "lending"
+  },
+  {
+    "no": "504",
+    "verb1": "let",
+    "verb2": "let",
+    "verb3": "let",
+    "verbing": "letting"
+  },
+  {
+    "no": "505",
+    "verb1": "lick",
+    "verb2": "licked",
+    "verb3": "licked",
+    "verbing": "licking"
+  },
+  {
+    "no": "506",
+    "verb1": "lie",
+    "verb2": "lay",
+    "verb3": "lain",
+    "verbing": "lying"
+  },
+  {
+    "no": "507",
+    "verb1": "lie",
+    "verb2": "lied",
+    "verb3": "lied",
+    "verbing": "lying"
+  },
+  {
+    "no": "508",
+    "verb1": "lift",
+    "verb2": "lifted",
+    "verb3": "lifted",
+    "verbing": "lifting"
+  },
+  {
+    "no": "509",
+    "verb1": "light",
+    "verb2": "lit",
+    "verb3": "lit",
+    "verbing": "lighting"
+  },
+  {
+    "no": "510",
+    "verb1": "like",
+    "verb2": "liked",
+    "verb3": "liked",
+    "verbing": "liking"
+  },
+  {
+    "no": "511",
+    "verb1": "limp",
+    "verb2": "limped",
+    "verb3": "limped",
+    "verbing": "limping"
+  },
+  {
+    "no": "512",
+    "verb1": "listen",
+    "verb2": "listened",
+    "verb3": "listened",
+    "verbing": "listening"
+  },
+  {
+    "no": "513",
+    "verb1": "live",
+    "verb2": "lived",
+    "verb3": "lived",
+    "verbing": "living"
+  },
+  {
+    "no": "514",
+    "verb1": "look",
+    "verb2": "looked",
+    "verb3": "looked",
+    "verbing": "looking"
+  },
+  {
+    "no": "515",
+    "verb1": "lose",
+    "verb2": "lost",
+    "verb3": "lost",
+    "verbing": "losing"
+  },
+  {
+    "no": "516",
+    "verb1": "love",
+    "verb2": "loved",
+    "verb3": "loved",
+    "verbing": "loving"
+  },
+  {
+    "no": "517",
+    "verb1": "magnify",
+    "verb2": "magnified",
+    "verb3": "magnified",
+    "verbing": "magnifying"
+  },
+  {
+    "no": "518",
+    "verb1": "maintain",
+    "verb2": "maintained",
+    "verb3": "maintained",
+    "verbing": "maintaining"
+  },
+  {
+    "no": "519",
+    "verb1": "make",
+    "verb2": "made",
+    "verb3": "made",
+    "verbing": "making"
+  },
+  {
+    "no": "520",
+    "verb1": "manage",
+    "verb2": "managed",
+    "verb3": "managed",
+    "verbing": "managing"
+  },
+  {
+    "no": "521",
+    "verb1": "march",
+    "verb2": "marched",
+    "verb3": "marched",
+    "verbing": "marching"
+  },
+  {
+    "no": "522",
+    "verb1": "mark",
+    "verb2": "marked",
+    "verb3": "marked",
+    "verbing": "marking"
+  },
+  {
+    "no": "523",
+    "verb1": "marry",
+    "verb2": "married",
+    "verb3": "married",
+    "verbing": "marrying"
+  },
+  {
+    "no": "524",
+    "verb1": "mash",
+    "verb2": "mashed",
+    "verb3": "mashed",
+    "verbing": "mashing"
+  },
+  {
+    "no": "525",
+    "verb1": "match",
+    "verb2": "matched",
+    "verb3": "matched",
+    "verbing": "matching"
+  },
+  {
+    "no": "526",
+    "verb1": "matter",
+    "verb2": "mattered",
+    "verb3": "mattered",
+    "verbing": "mattering"
+  },
+  {
+    "no": "527",
+    "verb1": "mean",
+    "verb2": "meant",
+    "verb3": "meant",
+    "verbing": "meaning"
+  },
+  {
+    "no": "528",
+    "verb1": "measure",
+    "verb2": "measured",
+    "verb3": "measured",
+    "verbing": "measuring"
+  },
+  {
+    "no": "529",
+    "verb1": "meet",
+    "verb2": "met",
+    "verb3": "met",
+    "verbing": "meeting"
+  },
+  {
+    "no": "530",
+    "verb1": "melt",
+    "verb2": "melted",
+    "verb3": "melted",
+    "verbing": "melting"
+  },
+  {
+    "no": "531",
+    "verb1": "merge",
+    "verb2": "merged",
+    "verb3": "merged",
+    "verbing": "merging"
+  },
+  {
+    "no": "532",
+    "verb1": "mew",
+    "verb2": "mewed",
+    "verb3": "mewed",
+    "verbing": "mewing"
+  },
+  {
+    "no": "533",
+    "verb1": "migrate",
+    "verb2": "migrated",
+    "verb3": "migrated",
+    "verbing": "migrating"
+  },
+  {
+    "no": "534",
+    "verb1": "milk",
+    "verb2": "milked",
+    "verb3": "milked",
+    "verbing": "milking"
+  },
+  {
+    "no": "535",
+    "verb1": "mind",
+    "verb2": "minded",
+    "verb3": "minded",
+    "verbing": "minding"
+  },
+  {
+    "no": "536",
+    "verb1": "mislead",
+    "verb2": "misled",
+    "verb3": "misled",
+    "verbing": "misleading"
+  },
+  {
+    "no": "537",
+    "verb1": "miss",
+    "verb2": "missed",
+    "verb3": "missed",
+    "verbing": "missing"
+  },
+  {
+    "no": "538",
+    "verb1": "mistake",
+    "verb2": "mistook",
+    "verb3": "mistaken",
+    "verbing": "mistaking"
+  },
+  {
+    "no": "539",
+    "verb1": "misuse",
+    "verb2": "misused",
+    "verb3": "misused",
+    "verbing": "misusing"
+  },
+  {
+    "no": "540",
+    "verb1": "mix",
+    "verb2": "mixed",
+    "verb3": "mixed",
+    "verbing": "mixing"
+  },
+  {
+    "no": "541",
+    "verb1": "moan",
+    "verb2": "moaned",
+    "verb3": "moaned",
+    "verbing": "moaning"
+  },
+  {
+    "no": "542",
+    "verb1": "modify",
+    "verb2": "modified",
+    "verb3": "modified",
+    "verbing": "modifying"
+  },
+  {
+    "no": "543",
+    "verb1": "moo",
+    "verb2": "mooed",
+    "verb3": "mooed",
+    "verbing": "mooing"
+  },
+  {
+    "no": "544",
+    "verb1": "motivate",
+    "verb2": "motivated",
+    "verb3": "motivated",
+    "verbing": "motivating"
+  },
+  {
+    "no": "545",
+    "verb1": "mould",
+    "verb2": "moulded",
+    "verb3": "moulded",
+    "verbing": "moulding"
+  },
+  {
+    "no": "546",
+    "verb1": "moult",
+    "verb2": "moulted",
+    "verb3": "moulted",
+    "verbing": "moulting"
+  },
+  {
+    "no": "547",
+    "verb1": "move",
+    "verb2": "moved",
+    "verb3": "moved",
+    "verbing": "moving"
+  },
+  {
+    "no": "548",
+    "verb1": "mow",
+    "verb2": "mowed",
+    "verb3": "mown",
+    "verbing": "mowing"
+  },
+  {
+    "no": "549",
+    "verb1": "multiply",
+    "verb2": "multiplied",
+    "verb3": "multiplied",
+    "verbing": "multiplying"
+  },
+  {
+    "no": "550",
+    "verb1": "murmur",
+    "verb2": "murmured",
+    "verb3": "murmured",
+    "verbing": "murmuring"
+  },
+  {
+    "no": "551",
+    "verb1": "nail",
+    "verb2": "nailed",
+    "verb3": "nailed",
+    "verbing": "nailing"
+  },
+  {
+    "no": "552",
+    "verb1": "nap",
+    "verb2": "napped",
+    "verb3": "napped",
+    "verbing": "napping"
+  },
+  {
+    "no": "553",
+    "verb1": "need",
+    "verb2": "needed",
+    "verb3": "needed",
+    "verbing": "needing"
+  },
+  {
+    "no": "554",
+    "verb1": "neglect",
+    "verb2": "neglected",
+    "verb3": "neglected",
+    "verbing": "neglecting"
+  },
+  {
+    "no": "555",
+    "verb1": "nip",
+    "verb2": "nipped",
+    "verb3": "nipped",
+    "verbing": "nipping"
+  },
+  {
+    "no": "556",
+    "verb1": "nod",
+    "verb2": "nodded",
+    "verb3": "nodded",
+    "verbing": "nodding"
+  },
+  {
+    "no": "557",
+    "verb1": "note",
+    "verb2": "noted",
+    "verb3": "noted",
+    "verbing": "noting"
+  },
+  {
+    "no": "558",
+    "verb1": "notice",
+    "verb2": "noticed",
+    "verb3": "noticed",
+    "verbing": "noticing"
+  },
+  {
+    "no": "559",
+    "verb1": "notify",
+    "verb2": "notified",
+    "verb3": "notified",
+    "verbing": "notifying"
+  },
+  {
+    "no": "560",
+    "verb1": "nourish",
+    "verb2": "nourished",
+    "verb3": "nourished",
+    "verbing": "nourishing"
+  },
+  {
+    "no": "561",
+    "verb1": "nurse",
+    "verb2": "nursed",
+    "verb3": "nursed",
+    "verbing": "nursing"
+  },
+  {
+    "no": "562",
+    "verb1": "obey",
+    "verb2": "obeyed",
+    "verb3": "obeyed",
+    "verbing": "obeying"
+  },
+  {
+    "no": "563",
+    "verb1": "oblige",
+    "verb2": "obliged",
+    "verb3": "obliged",
+    "verbing": "obliging"
+  },
+  {
+    "no": "564",
+    "verb1": "observe",
+    "verb2": "observed",
+    "verb3": "observed",
+    "verbing": "observing"
+  },
+  {
+    "no": "565",
+    "verb1": "obstruct",
+    "verb2": "obstructed",
+    "verb3": "obstructed",
+    "verbing": "obstructing"
+  },
+  {
+    "no": "566",
+    "verb1": "obtain",
+    "verb2": "obtained",
+    "verb3": "obtained",
+    "verbing": "obtaining"
+  },
+  {
+    "no": "567",
+    "verb1": "occupy",
+    "verb2": "occupied",
+    "verb3": "occupied",
+    "verbing": "occupying"
+  },
+  {
+    "no": "568",
+    "verb1": "occur",
+    "verb2": "occurred",
+    "verb3": "occurred",
+    "verbing": "occurring"
+  },
+  {
+    "no": "569",
+    "verb1": "offer",
+    "verb2": "offered",
+    "verb3": "offered",
+    "verbing": "offering"
+  },
+  {
+    "no": "570",
+    "verb1": "offset",
+    "verb2": "offset",
+    "verb3": "offset",
+    "verbing": "offsetting"
+  },
+  {
+    "no": "571",
+    "verb1": "omit",
+    "verb2": "omitted",
+    "verb3": "omitted",
+    "verbing": "omitting"
+  },
+  {
+    "no": "572",
+    "verb1": "ooze",
+    "verb2": "oozed",
+    "verb3": "oozed",
+    "verbing": "oozing"
+  },
+  {
+    "no": "573",
+    "verb1": "open",
+    "verb2": "opened",
+    "verb3": "opened",
+    "verbing": "opening"
+  },
+  {
+    "no": "574",
+    "verb1": "operate",
+    "verb2": "operated",
+    "verb3": "operated",
+    "verbing": "operating"
+  },
+  {
+    "no": "575",
+    "verb1": "opine",
+    "verb2": "opined",
+    "verb3": "opined",
+    "verbing": "opining"
+  },
+  {
+    "no": "576",
+    "verb1": "oppress",
+    "verb2": "oppressed",
+    "verb3": "oppressed",
+    "verbing": "oppressing"
+  },
+  {
+    "no": "577",
+    "verb1": "opt",
+    "verb2": "opted",
+    "verb3": "opted",
+    "verbing": "opting"
+  },
+  {
+    "no": "578",
+    "verb1": "optimize",
+    "verb2": "optimized",
+    "verb3": "optimized",
+    "verbing": "optimizing"
+  },
+  {
+    "no": "579",
+    "verb1": "order",
+    "verb2": "ordered",
+    "verb3": "ordered",
+    "verbing": "ordering"
+  },
+  {
+    "no": "580",
+    "verb1": "organize",
+    "verb2": "organized",
+    "verb3": "organized",
+    "verbing": "organizing"
+  },
+  {
+    "no": "581",
+    "verb1": "originate",
+    "verb2": "originated",
+    "verb3": "originated",
+    "verbing": "originating"
+  },
+  {
+    "no": "582",
+    "verb1": "output",
+    "verb2": "output",
+    "verb3": "output",
+    "verbing": "outputting"
+  },
+  {
+    "no": "583",
+    "verb1": "overflow",
+    "verb2": "overflowed",
+    "verb3": "overflowed",
+    "verbing": "overflowing"
+  },
+  {
+    "no": "584",
+    "verb1": "overtake",
+    "verb2": "overtook",
+    "verb3": "overtaken",
+    "verbing": "overtaking"
+  },
+  {
+    "no": "585",
+    "verb1": "owe",
+    "verb2": "owed",
+    "verb3": "owed",
+    "verbing": "owing"
+  },
+  {
+    "no": "586",
+    "verb1": "own",
+    "verb2": "owned",
+    "verb3": "owned",
+    "verbing": "owning"
+  },
+  {
+    "no": "587",
+    "verb1": "pacify",
+    "verb2": "pacified",
+    "verb3": "pacified",
+    "verbing": "pacifying"
+  },
+  {
+    "no": "588",
+    "verb1": "paint",
+    "verb2": "painted",
+    "verb3": "painted",
+    "verbing": "painting"
+  },
+  {
+    "no": "589",
+    "verb1": "pardon",
+    "verb2": "pardoned",
+    "verb3": "pardoned",
+    "verbing": "pardoning"
+  },
+  {
+    "no": "590",
+    "verb1": "part",
+    "verb2": "parted",
+    "verb3": "parted",
+    "verbing": "parting"
+  },
+  {
+    "no": "591",
+    "verb1": "partake",
+    "verb2": "partook",
+    "verb3": "partaken",
+    "verbing": "partaking"
+  },
+  {
+    "no": "592",
+    "verb1": "participate",
+    "verb2": "participated",
+    "verb3": "participated",
+    "verbing": "participating"
+  },
+  {
+    "no": "593",
+    "verb1": "pass",
+    "verb2": "passed",
+    "verb3": "passed",
+    "verbing": "passing"
+  },
+  {
+    "no": "594",
+    "verb1": "paste",
+    "verb2": "pasted",
+    "verb3": "pasted",
+    "verbing": "pasting"
+  },
+  {
+    "no": "595",
+    "verb1": "pat",
+    "verb2": "patted",
+    "verb3": "patted",
+    "verbing": "patting"
+  },
+  {
+    "no": "596",
+    "verb1": "patch",
+    "verb2": "patched",
+    "verb3": "patched",
+    "verbing": "patching"
+  },
+  {
+    "no": "597",
+    "verb1": "pause",
+    "verb2": "paused",
+    "verb3": "paused",
+    "verbing": "pausing"
+  },
+  {
+    "no": "598",
+    "verb1": "pay",
+    "verb2": "paid",
+    "verb3": "paid",
+    "verbing": "paying"
+  },
+  {
+    "no": "599",
+    "verb1": "peep",
+    "verb2": "peeped",
+    "verb3": "peeped",
+    "verbing": "peeping"
+  },
+  {
+    "no": "600",
+    "verb1": "perish",
+    "verb2": "perished",
+    "verb3": "perished",
+    "verbing": "perishing"
+  },
+  {
+    "no": "601",
+    "verb1": "permit",
+    "verb2": "permitted",
+    "verb3": "permitted",
+    "verbing": "permitting"
+  },
+  {
+    "no": "602",
+    "verb1": "persuade",
+    "verb2": "persuaded",
+    "verb3": "persuaded",
+    "verbing": "persuading"
+  },
+  {
+    "no": "603",
+    "verb1": "phone",
+    "verb2": "phoned",
+    "verb3": "phoned",
+    "verbing": "phoning"
+  },
+  {
+    "no": "604",
+    "verb1": "place",
+    "verb2": "placed",
+    "verb3": "placed",
+    "verbing": "placing"
+  },
+  {
+    "no": "605",
+    "verb1": "plan",
+    "verb2": "planned",
+    "verb3": "planned",
+    "verbing": "planning"
+  },
+  {
+    "no": "606",
+    "verb1": "play",
+    "verb2": "played",
+    "verb3": "played",
+    "verbing": "playing"
+  },
+  {
+    "no": "607",
+    "verb1": "plead",
+    "verb2": "pled",
+    "verb3": "pled",
+    "verbing": "pleading"
+  },
+  {
+    "no": "608",
+    "verb1": "please",
+    "verb2": "pleased",
+    "verb3": "pleased",
+    "verbing": "pleasing"
+  },
+  {
+    "no": "609",
+    "verb1": "plod",
+    "verb2": "plodded",
+    "verb3": "plodded",
+    "verbing": "plodding"
+  },
+  {
+    "no": "610",
+    "verb1": "plot",
+    "verb2": "plotted",
+    "verb3": "plotted",
+    "verbing": "plotting"
+  },
+  {
+    "no": "611",
+    "verb1": "pluck",
+    "verb2": "plucked",
+    "verb3": "plucked",
+    "verbing": "plucking"
+  },
+  {
+    "no": "612",
+    "verb1": "ply",
+    "verb2": "plied",
+    "verb3": "plied",
+    "verbing": "plying"
+  },
+  {
+    "no": "613",
+    "verb1": "point",
+    "verb2": "pointed",
+    "verb3": "pointed",
+    "verbing": "pointing"
+  },
+  {
+    "no": "614",
+    "verb1": "polish",
+    "verb2": "polished",
+    "verb3": "polished",
+    "verbing": "polishing"
+  },
+  {
+    "no": "615",
+    "verb1": "pollute",
+    "verb2": "polluted",
+    "verb3": "polluted",
+    "verbing": "polluting"
+  },
+  {
+    "no": "616",
+    "verb1": "ponder",
+    "verb2": "pondered",
+    "verb3": "pondered",
+    "verbing": "pondering"
+  },
+  {
+    "no": "617",
+    "verb1": "pour",
+    "verb2": "poured",
+    "verb3": "poured",
+    "verbing": "pouring"
+  },
+  {
+    "no": "618",
+    "verb1": "pout",
+    "verb2": "pouted",
+    "verb3": "pouted",
+    "verbing": "pouting"
+  },
+  {
+    "no": "619",
+    "verb1": "practise",
+    "verb2": "practised",
+    "verb3": "practised",
+    "verbing": "practising"
+  },
+  {
+    "no": "620",
+    "verb1": "praise",
+    "verb2": "praised",
+    "verb3": "praised",
+    "verbing": "praising"
+  },
+  {
+    "no": "621",
+    "verb1": "pray",
+    "verb2": "prayed",
+    "verb3": "prayed",
+    "verbing": "praying"
+  },
+  {
+    "no": "622",
+    "verb1": "preach",
+    "verb2": "preached",
+    "verb3": "preached",
+    "verbing": "preaching"
+  },
+  {
+    "no": "623",
+    "verb1": "prefer",
+    "verb2": "preferred",
+    "verb3": "preferred",
+    "verbing": "preferring"
+  },
+  {
+    "no": "624",
+    "verb1": "prepare",
+    "verb2": "prepared",
+    "verb3": "prepared",
+    "verbing": "preparing"
+  },
+  {
+    "no": "625",
+    "verb1": "prescribe",
+    "verb2": "prescribed",
+    "verb3": "prescribed",
+    "verbing": "prescribing"
+  },
+  {
+    "no": "626",
+    "verb1": "present",
+    "verb2": "presented",
+    "verb3": "presented",
+    "verbing": "presenting"
+  },
+  {
+    "no": "627",
+    "verb1": "preserve",
+    "verb2": "preserved",
+    "verb3": "preserved",
+    "verbing": "preserving"
+  },
+  {
+    "no": "628",
+    "verb1": "preset",
+    "verb2": "preset",
+    "verb3": "preset",
+    "verbing": "presetting"
+  },
+  {
+    "no": "629",
+    "verb1": "preside",
+    "verb2": "presided",
+    "verb3": "presided",
+    "verbing": "presiding"
+  },
+  {
+    "no": "630",
+    "verb1": "press",
+    "verb2": "pressed",
+    "verb3": "pressed",
+    "verbing": "pressing"
+  },
+  {
+    "no": "631",
+    "verb1": "pretend",
+    "verb2": "pretended",
+    "verb3": "pretended",
+    "verbing": "pretending"
+  },
+  {
+    "no": "632",
+    "verb1": "prevent",
+    "verb2": "prevented",
+    "verb3": "prevented",
+    "verbing": "preventing"
+  },
+  {
+    "no": "633",
+    "verb1": "print",
+    "verb2": "printed",
+    "verb3": "printed",
+    "verbing": "printing"
+  },
+  {
+    "no": "634",
+    "verb1": "proceed",
+    "verb2": "proceeded",
+    "verb3": "proceeded",
+    "verbing": "proceeding"
+  },
+  {
+    "no": "635",
+    "verb1": "produce",
+    "verb2": "produced",
+    "verb3": "produced",
+    "verbing": "producing"
+  },
+  {
+    "no": "636",
+    "verb1": "progress",
+    "verb2": "progressed",
+    "verb3": "progressed",
+    "verbing": "progressing"
+  },
+  {
+    "no": "637",
+    "verb1": "prohibit",
+    "verb2": "prohibited",
+    "verb3": "prohibited",
+    "verbing": "prohibiting"
+  },
+  {
+    "no": "638",
+    "verb1": "promise",
+    "verb2": "promised",
+    "verb3": "promised",
+    "verbing": "promising"
+  },
+  {
+    "no": "639",
+    "verb1": "propose",
+    "verb2": "proposed",
+    "verb3": "proposed",
+    "verbing": "proposing"
+  },
+  {
+    "no": "640",
+    "verb1": "prosecute",
+    "verb2": "prosecuted",
+    "verb3": "prosecuted",
+    "verbing": "prosecuting"
+  },
+  {
+    "no": "641",
+    "verb1": "protect",
+    "verb2": "protected",
+    "verb3": "protected",
+    "verbing": "protecting"
+  },
+  {
+    "no": "642",
+    "verb1": "prove",
+    "verb2": "proved",
+    "verb3": "proved",
+    "verbing": "proving"
+  },
+  {
+    "no": "643",
+    "verb1": "provide",
+    "verb2": "provided",
+    "verb3": "provided",
+    "verbing": "providing"
+  },
+  {
+    "no": "644",
+    "verb1": "pull",
+    "verb2": "pulled",
+    "verb3": "pulled",
+    "verbing": "pulling"
+  },
+  {
+    "no": "645",
+    "verb1": "punish",
+    "verb2": "punished",
+    "verb3": "punished",
+    "verbing": "punishing"
+  },
+  {
+    "no": "646",
+    "verb1": "purify",
+    "verb2": "purified",
+    "verb3": "purified",
+    "verbing": "purifying"
+  },
+  {
+    "no": "647",
+    "verb1": "push",
+    "verb2": "pushed",
+    "verb3": "pushed",
+    "verbing": "pushing"
+  },
+  {
+    "no": "648",
+    "verb1": "put",
+    "verb2": "put",
+    "verb3": "put",
+    "verbing": "putting"
+  },
+  {
+    "no": "649",
+    "verb1": "qualify",
+    "verb2": "qualified",
+    "verb3": "qualified",
+    "verbing": "qualifying"
+  },
+  {
+    "no": "650",
+    "verb1": "quarrel",
+    "verb2": "quarrelled",
+    "verb3": "quarrelled",
+    "verbing": "quarrelling"
+  },
+  {
+    "no": "651",
+    "verb1": "question",
+    "verb2": "questioned",
+    "verb3": "questioned",
+    "verbing": "questioning"
+  },
+  {
+    "no": "652",
+    "verb1": "quit",
+    "verb2": "quit",
+    "verb3": "quit",
+    "verbing": "quitting"
+  },
+  {
+    "no": "653",
+    "verb1": "race",
+    "verb2": "raced",
+    "verb3": "raced",
+    "verbing": "racing"
+  },
+  {
+    "no": "654",
+    "verb1": "rain",
+    "verb2": "rained",
+    "verb3": "rained",
+    "verbing": "raining"
+  },
+  {
+    "no": "655",
+    "verb1": "rattle",
+    "verb2": "rattled",
+    "verb3": "rattled",
+    "verbing": "rattling"
+  },
+  {
+    "no": "656",
+    "verb1": "reach",
+    "verb2": "reached",
+    "verb3": "reached",
+    "verbing": "reaching"
+  },
+  {
+    "no": "657",
+    "verb1": "read",
+    "verb2": "read",
+    "verb3": "read",
+    "verbing": "reading"
+  },
+  {
+    "no": "658",
+    "verb1": "realize",
+    "verb2": "realized",
+    "verb3": "realized",
+    "verbing": "realizing"
+  },
+  {
+    "no": "659",
+    "verb1": "rebuild",
+    "verb2": "rebuilt",
+    "verb3": "rebuilt",
+    "verbing": "rebuilding"
+  },
+  {
+    "no": "660",
+    "verb1": "recall",
+    "verb2": "recalled",
+    "verb3": "recalled",
+    "verbing": "recalling"
+  },
+  {
+    "no": "661",
+    "verb1": "recast",
+    "verb2": "recast",
+    "verb3": "recast",
+    "verbing": "recasting"
+  },
+  {
+    "no": "662",
+    "verb1": "receive",
+    "verb2": "received",
+    "verb3": "received",
+    "verbing": "receiving"
+  },
+  {
+    "no": "663",
+    "verb1": "recite",
+    "verb2": "recited",
+    "verb3": "recited",
+    "verbing": "reciting"
+  },
+  {
+    "no": "664",
+    "verb1": "recognize",
+    "verb2": "recognized",
+    "verb3": "recognized",
+    "verbing": "recognizing"
+  },
+  {
+    "no": "665",
+    "verb1": "recollect",
+    "verb2": "recollected",
+    "verb3": "recollected",
+    "verbing": "recollecting"
+  },
+  {
+    "no": "666",
+    "verb1": "recur",
+    "verb2": "recurred",
+    "verb3": "recurred",
+    "verbing": "recurring"
+  },
+  {
+    "no": "667",
+    "verb1": "redo",
+    "verb2": "redid",
+    "verb3": "redone",
+    "verbing": "redoing"
+  },
+  {
+    "no": "668",
+    "verb1": "reduce",
+    "verb2": "reduced",
+    "verb3": "reduced",
+    "verbing": "reducing"
+  },
+  {
+    "no": "669",
+    "verb1": "refer",
+    "verb2": "referred",
+    "verb3": "referred",
+    "verbing": "referring"
+  },
+  {
+    "no": "670",
+    "verb1": "reflect",
+    "verb2": "reflected",
+    "verb3": "reflected",
+    "verbing": "reflecting"
+  },
+  {
+    "no": "671",
+    "verb1": "refuse",
+    "verb2": "refused",
+    "verb3": "refused",
+    "verbing": "refusing"
+  },
+  {
+    "no": "672",
+    "verb1": "regard",
+    "verb2": "regarded",
+    "verb3": "regarded",
+    "verbing": "regarding"
+  },
+  {
+    "no": "673",
+    "verb1": "regret",
+    "verb2": "regretted",
+    "verb3": "regretted",
+    "verbing": "regretting"
+  },
+  {
+    "no": "674",
+    "verb1": "relate",
+    "verb2": "related",
+    "verb3": "related",
+    "verbing": "relating"
+  },
+  {
+    "no": "675",
+    "verb1": "relax",
+    "verb2": "relaxed",
+    "verb3": "relaxed",
+    "verbing": "relaxing"
+  },
+  {
+    "no": "676",
+    "verb1": "rely",
+    "verb2": "relied",
+    "verb3": "relied",
+    "verbing": "relying"
+  },
+  {
+    "no": "677",
+    "verb1": "remain",
+    "verb2": "remained",
+    "verb3": "remained",
+    "verbing": "remaining"
+  },
+  {
+    "no": "678",
+    "verb1": "remake",
+    "verb2": "remade",
+    "verb3": "remade",
+    "verbing": "remaking"
+  },
+  {
+    "no": "679",
+    "verb1": "remove",
+    "verb2": "removed",
+    "verb3": "removed",
+    "verbing": "removing"
+  },
+  {
+    "no": "680",
+    "verb1": "rend",
+    "verb2": "rent",
+    "verb3": "rent",
+    "verbing": "rending"
+  },
+  {
+    "no": "681",
+    "verb1": "renew",
+    "verb2": "renewed",
+    "verb3": "renewed",
+    "verbing": "renewing"
+  },
+  {
+    "no": "682",
+    "verb1": "renounce",
+    "verb2": "renounced",
+    "verb3": "renounced",
+    "verbing": "renouncing"
+  },
+  {
+    "no": "683",
+    "verb1": "repair",
+    "verb2": "repaired",
+    "verb3": "repaired",
+    "verbing": "repairing"
+  },
+  {
+    "no": "684",
+    "verb1": "repeat",
+    "verb2": "repeated",
+    "verb3": "repeated",
+    "verbing": "repeating"
+  },
+  {
+    "no": "685",
+    "verb1": "replace",
+    "verb2": "replaced",
+    "verb3": "replaced",
+    "verbing": "replacing"
+  },
+  {
+    "no": "686",
+    "verb1": "reply",
+    "verb2": "replied",
+    "verb3": "replied",
+    "verbing": "replying"
+  },
+  {
+    "no": "687",
+    "verb1": "report",
+    "verb2": "reported",
+    "verb3": "reported",
+    "verbing": "reporting"
+  },
+  {
+    "no": "688",
+    "verb1": "request",
+    "verb2": "requested",
+    "verb3": "requested",
+    "verbing": "requesting"
+  },
+  {
+    "no": "689",
+    "verb1": "resell",
+    "verb2": "resold",
+    "verb3": "resold",
+    "verbing": "reselling"
+  },
+  {
+    "no": "690",
+    "verb1": "resemble",
+    "verb2": "resembled",
+    "verb3": "resembled",
+    "verbing": "resembling"
+  },
+  {
+    "no": "691",
+    "verb1": "reset",
+    "verb2": "reset",
+    "verb3": "reset",
+    "verbing": "resetting"
+  },
+  {
+    "no": "692",
+    "verb1": "resist",
+    "verb2": "resisted",
+    "verb3": "resisted",
+    "verbing": "resisting"
+  },
+  {
+    "no": "693",
+    "verb1": "resolve",
+    "verb2": "resolved",
+    "verb3": "resolved",
+    "verbing": "resolving"
+  },
+  {
+    "no": "694",
+    "verb1": "respect",
+    "verb2": "respected",
+    "verb3": "respected",
+    "verbing": "respecting"
+  },
+  {
+    "no": "695",
+    "verb1": "rest",
+    "verb2": "rested",
+    "verb3": "rested",
+    "verbing": "resting"
+  },
+  {
+    "no": "696",
+    "verb1": "restrain",
+    "verb2": "restrained",
+    "verb3": "restrained",
+    "verbing": "restraining"
+  },
+  {
+    "no": "697",
+    "verb1": "retain",
+    "verb2": "retained",
+    "verb3": "retained",
+    "verbing": "retaining"
+  },
+  {
+    "no": "698",
+    "verb1": "retch",
+    "verb2": "retched",
+    "verb3": "retched",
+    "verbing": "retching"
+  },
+  {
+    "no": "699",
+    "verb1": "retire",
+    "verb2": "retired",
+    "verb3": "retired",
+    "verbing": "retiring"
+  },
+  {
+    "no": "700",
+    "verb1": "return",
+    "verb2": "returned",
+    "verb3": "returned",
+    "verbing": "returning"
+  },
+  {
+    "no": "701",
+    "verb1": "reuse",
+    "verb2": "reused",
+    "verb3": "reused",
+    "verbing": "reusing"
+  },
+  {
+    "no": "702",
+    "verb1": "review",
+    "verb2": "reviewed",
+    "verb3": "reviewed",
+    "verbing": "reviewing"
+  },
+  {
+    "no": "703",
+    "verb1": "rewind",
+    "verb2": "rewound",
+    "verb3": "rewound",
+    "verbing": "rewinding"
+  },
+  {
+    "no": "704",
+    "verb1": "rid",
+    "verb2": "rid",
+    "verb3": "rid",
+    "verbing": "ridding"
+  },
+  {
+    "no": "705",
+    "verb1": "ride",
+    "verb2": "rode",
+    "verb3": "ridden",
+    "verbing": "riding"
+  },
+  {
+    "no": "706",
+    "verb1": "ring",
+    "verb2": "rang",
+    "verb3": "rung",
+    "verbing": "ringing"
+  },
+  {
+    "no": "707",
+    "verb1": "rise",
+    "verb2": "rose",
+    "verb3": "risen",
+    "verbing": "rising"
+  },
+  {
+    "no": "708",
+    "verb1": "roar",
+    "verb2": "roared",
+    "verb3": "roared",
+    "verbing": "roaring"
+  },
+  {
+    "no": "709",
+    "verb1": "rob",
+    "verb2": "robbed",
+    "verb3": "robbed",
+    "verbing": "robbing"
+  },
+  {
+    "no": "710",
+    "verb1": "roll",
+    "verb2": "rolled",
+    "verb3": "rolled",
+    "verbing": "rolling"
+  },
+  {
+    "no": "711",
+    "verb1": "rot",
+    "verb2": "rotted",
+    "verb3": "rotted",
+    "verbing": "rotting"
+  },
+  {
+    "no": "712",
+    "verb1": "rub",
+    "verb2": "rubbed",
+    "verb3": "rubbed",
+    "verbing": "rubbing"
+  },
+  {
+    "no": "713",
+    "verb1": "rule",
+    "verb2": "ruled",
+    "verb3": "ruled",
+    "verbing": "ruling"
+  },
+  {
+    "no": "714",
+    "verb1": "run",
+    "verb2": "ran",
+    "verb3": "run",
+    "verbing": "running"
+  },
+  {
+    "no": "715",
+    "verb1": "rush",
+    "verb2": "rushed",
+    "verb3": "rushed",
+    "verbing": "rushing"
+  },
+  {
+    "no": "716",
+    "verb1": "sabotage",
+    "verb2": "sabotaged",
+    "verb3": "sabotaged",
+    "verbing": "sabotaging"
+  },
+  {
+    "no": "717",
+    "verb1": "sack",
+    "verb2": "sacked",
+    "verb3": "sacked",
+    "verbing": "sacking"
+  },
+  {
+    "no": "718",
+    "verb1": "sacrifice",
+    "verb2": "sacrificed",
+    "verb3": "sacrificed",
+    "verbing": "sacrificing"
+  },
+  {
+    "no": "719",
+    "verb1": "sadden",
+    "verb2": "saddened",
+    "verb3": "saddened",
+    "verbing": "saddening"
+  },
+  {
+    "no": "720",
+    "verb1": "saddle",
+    "verb2": "saddled",
+    "verb3": "saddled",
+    "verbing": "saddling"
+  },
+  {
+    "no": "721",
+    "verb1": "sag",
+    "verb2": "sagged",
+    "verb3": "sagged",
+    "verbing": "sagging"
+  },
+  {
+    "no": "722",
+    "verb1": "sail",
+    "verb2": "sailed",
+    "verb3": "sailed",
+    "verbing": "sailing"
+  },
+  {
+    "no": "723",
+    "verb1": "sally",
+    "verb2": "sallied",
+    "verb3": "sallied",
+    "verbing": "sallying"
+  },
+  {
+    "no": "724",
+    "verb1": "salute",
+    "verb2": "saluted",
+    "verb3": "saluted",
+    "verbing": "saluting"
+  },
+  {
+    "no": "725",
+    "verb1": "salvage",
+    "verb2": "salvaged",
+    "verb3": "salvaged",
+    "verbing": "salvaging"
+  },
+  {
+    "no": "726",
+    "verb1": "salve",
+    "verb2": "salved",
+    "verb3": "salved",
+    "verbing": "salving"
+  },
+  {
+    "no": "727",
+    "verb1": "sample",
+    "verb2": "sampled",
+    "verb3": "sampled",
+    "verbing": "sampling"
+  },
+  {
+    "no": "728",
+    "verb1": "sanctify",
+    "verb2": "sanctified",
+    "verb3": "sanctified",
+    "verbing": "sanctifying"
+  },
+  {
+    "no": "729",
+    "verb1": "sanction",
+    "verb2": "sanctioned",
+    "verb3": "sanctioned",
+    "verbing": "sanctioning"
+  },
+  {
+    "no": "730",
+    "verb1": "sap",
+    "verb2": "sapped",
+    "verb3": "sapped",
+    "verbing": "sapping"
+  },
+  {
+    "no": "731",
+    "verb1": "saponify",
+    "verb2": "saponified",
+    "verb3": "saponified",
+    "verbing": "saponifying"
+  },
+  {
+    "no": "732",
+    "verb1": "sash",
+    "verb2": "sashed",
+    "verb3": "sashed",
+    "verbing": "sashing"
+  },
+  {
+    "no": "733",
+    "verb1": "sashay",
+    "verb2": "sashayed",
+    "verb3": "sashayed",
+    "verbing": "sashaying"
+  },
+  {
+    "no": "734",
+    "verb1": "sass",
+    "verb2": "sassed",
+    "verb3": "sassed",
+    "verbing": "sassing"
+  },
+  {
+    "no": "735",
+    "verb1": "sate",
+    "verb2": "sated",
+    "verb3": "sated",
+    "verbing": "sating"
+  },
+  {
+    "no": "736",
+    "verb1": "satiate",
+    "verb2": "satiated",
+    "verb3": "satiated",
+    "verbing": "satiating"
+  },
+  {
+    "no": "737",
+    "verb1": "satirise",
+    "verb2": "satirised",
+    "verb3": "satirised",
+    "verbing": "satirising"
+  },
+  {
+    "no": "738",
+    "verb1": "satisfy",
+    "verb2": "satisfied",
+    "verb3": "satisfied",
+    "verbing": "satisfying"
+  },
+  {
+    "no": "739",
+    "verb1": "saturate",
+    "verb2": "saturated",
+    "verb3": "saturated",
+    "verbing": "saturating"
+  },
+  {
+    "no": "740",
+    "verb1": "saunter",
+    "verb2": "sauntered",
+    "verb3": "sauntered",
+    "verbing": "sauntering"
+  },
+  {
+    "no": "741",
+    "verb1": "save",
+    "verb2": "saved",
+    "verb3": "saved",
+    "verbing": "saving"
+  },
+  {
+    "no": "742",
+    "verb1": "savor",
+    "verb2": "savored",
+    "verb3": "savored",
+    "verbing": "savoring"
+  },
+  {
+    "no": "743",
+    "verb1": "savvy",
+    "verb2": "savvied",
+    "verb3": "savvied",
+    "verbing": "savvying"
+  },
+  {
+    "no": "744",
+    "verb1": "saw",
+    "verb2": "sawed",
+    "verb3": "sawn",
+    "verbing": "sawing"
+  },
+  {
+    "no": "745",
+    "verb1": "say",
+    "verb2": "said",
+    "verb3": "said",
+    "verbing": "saying"
+  },
+  {
+    "no": "746",
+    "verb1": "scab",
+    "verb2": "scabbed",
+    "verb3": "scabbed",
+    "verbing": "scabbing"
+  },
+  {
+    "no": "747",
+    "verb1": "scabble",
+    "verb2": "scabbled",
+    "verb3": "scabbled",
+    "verbing": "scabbling"
+  },
+  {
+    "no": "748",
+    "verb1": "scald",
+    "verb2": "scalded",
+    "verb3": "scalded",
+    "verbing": "scalding"
+  },
+  {
+    "no": "749",
+    "verb1": "scale",
+    "verb2": "scaled",
+    "verb3": "scaled",
+    "verbing": "scaling"
+  },
+  {
+    "no": "750",
+    "verb1": "scam",
+    "verb2": "scammed",
+    "verb3": "scammed",
+    "verbing": "scamming"
+  },
+  {
+    "no": "751",
+    "verb1": "scan",
+    "verb2": "scanned",
+    "verb3": "scanned",
+    "verbing": "scanning"
+  },
+  {
+    "no": "752",
+    "verb1": "scant",
+    "verb2": "scanted",
+    "verb3": "scanted",
+    "verbing": "scanting"
+  },
+  {
+    "no": "753",
+    "verb1": "scar",
+    "verb2": "scarred",
+    "verb3": "scarred",
+    "verbing": "scarring"
+  },
+  {
+    "no": "754",
+    "verb1": "scare",
+    "verb2": "scared",
+    "verb3": "scared",
+    "verbing": "scaring"
+  },
+  {
+    "no": "755",
+    "verb1": "scarify",
+    "verb2": "scarified",
+    "verb3": "scarified",
+    "verbing": "scarifying"
+  },
+  {
+    "no": "756",
+    "verb1": "scarp",
+    "verb2": "scarped",
+    "verb3": "scarped",
+    "verbing": "scarping"
+  },
+  {
+    "no": "757",
+    "verb1": "scat",
+    "verb2": "scatted",
+    "verb3": "scatted",
+    "verbing": "scatting"
+  },
+  {
+    "no": "758",
+    "verb1": "scatter",
+    "verb2": "scattered",
+    "verb3": "scattered",
+    "verbing": "scattering"
+  },
+  {
+    "no": "759",
+    "verb1": "scold",
+    "verb2": "scolded",
+    "verb3": "scolded",
+    "verbing": "scolding"
+  },
+  {
+    "no": "760",
+    "verb1": "scorch",
+    "verb2": "scorched",
+    "verb3": "scorched",
+    "verbing": "scorching"
+  },
+  {
+    "no": "761",
+    "verb1": "scowl",
+    "verb2": "scowled",
+    "verb3": "scowled",
+    "verbing": "scowling"
+  },
+  {
+    "no": "762",
+    "verb1": "scrawl",
+    "verb2": "scrawled",
+    "verb3": "scrawled",
+    "verbing": "scrawling"
+  },
+  {
+    "no": "763",
+    "verb1": "scream",
+    "verb2": "screamed",
+    "verb3": "screamed",
+    "verbing": "screaming"
+  },
+  {
+    "no": "764",
+    "verb1": "screw",
+    "verb2": "screwed",
+    "verb3": "screwed",
+    "verbing": "screwing"
+  },
+  {
+    "no": "765",
+    "verb1": "scrub",
+    "verb2": "scrubbed",
+    "verb3": "scrubbed",
+    "verbing": "scrubbing"
+  },
+  {
+    "no": "766",
+    "verb1": "search",
+    "verb2": "searched",
+    "verb3": "searched",
+    "verbing": "searching"
+  },
+  {
+    "no": "767",
+    "verb1": "seat",
+    "verb2": "seated",
+    "verb3": "seated",
+    "verbing": "seating"
+  },
+  {
+    "no": "768",
+    "verb1": "secure",
+    "verb2": "secured",
+    "verb3": "secured",
+    "verbing": "securing"
+  },
+  {
+    "no": "769",
+    "verb1": "see",
+    "verb2": "saw",
+    "verb3": "seen",
+    "verbing": "seeing"
+  },
+  {
+    "no": "770",
+    "verb1": "seek",
+    "verb2": "sought",
+    "verb3": "sought",
+    "verbing": "seeking"
+  },
+  {
+    "no": "771",
+    "verb1": "seem",
+    "verb2": "seemed",
+    "verb3": "seemed",
+    "verbing": "seeming"
+  },
+  {
+    "no": "772",
+    "verb1": "seize",
+    "verb2": "seized",
+    "verb3": "seized",
+    "verbing": "seizing"
+  },
+  {
+    "no": "773",
+    "verb1": "select",
+    "verb2": "selected",
+    "verb3": "selected",
+    "verbing": "selecting"
+  },
+  {
+    "no": "774",
+    "verb1": "sell",
+    "verb2": "sold",
+    "verb3": "sold",
+    "verbing": "selling"
+  },
+  {
+    "no": "775",
+    "verb1": "send",
+    "verb2": "sent",
+    "verb3": "sent",
+    "verbing": "sending"
+  },
+  {
+    "no": "776",
+    "verb1": "sentence",
+    "verb2": "sentenced",
+    "verb3": "sentenced",
+    "verbing": "sentencing"
+  },
+  {
+    "no": "777",
+    "verb1": "separate",
+    "verb2": "separated",
+    "verb3": "separated",
+    "verbing": "separating"
+  },
+  {
+    "no": "778",
+    "verb1": "set",
+    "verb2": "set",
+    "verb3": "set",
+    "verbing": "setting"
+  },
+  {
+    "no": "779",
+    "verb1": "sever",
+    "verb2": "severed",
+    "verb3": "severed",
+    "verbing": "severing"
+  },
+  {
+    "no": "780",
+    "verb1": "sew",
+    "verb2": "sewed",
+    "verb3": "sewn",
+    "verbing": "sewing"
+  },
+  {
+    "no": "781",
+    "verb1": "shake",
+    "verb2": "shook",
+    "verb3": "shaken",
+    "verbing": "shaking"
+  },
+  {
+    "no": "782",
+    "verb1": "shape",
+    "verb2": "shaped",
+    "verb3": "shaped",
+    "verbing": "shaping"
+  },
+  {
+    "no": "783",
+    "verb1": "share",
+    "verb2": "shared",
+    "verb3": "shared",
+    "verbing": "sharing"
+  },
+  {
+    "no": "784",
+    "verb1": "shatter",
+    "verb2": "shattered",
+    "verb3": "shattered",
+    "verbing": "shattering"
+  },
+  {
+    "no": "785",
+    "verb1": "shave",
+    "verb2": "shove",
+    "verb3": "shaven",
+    "verbing": "shaving"
+  },
+  {
+    "no": "786",
+    "verb1": "shear",
+    "verb2": "shore",
+    "verb3": "shorn",
+    "verbing": "shearing"
+  },
+  {
+    "no": "787",
+    "verb1": "shed",
+    "verb2": "shed",
+    "verb3": "shed",
+    "verbing": "shedding"
+  },
+  {
+    "no": "788",
+    "verb1": "shine",
+    "verb2": "shone",
+    "verb3": "shone",
+    "verbing": "shining"
+  },
+  {
+    "no": "789",
+    "verb1": "shirk",
+    "verb2": "shirked",
+    "verb3": "shirked",
+    "verbing": "shirking"
+  },
+  {
+    "no": "790",
+    "verb1": "shit",
+    "verb2": "shit",
+    "verb3": "shit",
+    "verbing": "shitting"
+  },
+  {
+    "no": "791",
+    "verb1": "shiver",
+    "verb2": "shivered",
+    "verb3": "shivered",
+    "verbing": "shivering"
+  },
+  {
+    "no": "792",
+    "verb1": "shock",
+    "verb2": "shocked",
+    "verb3": "shocked",
+    "verbing": "shocking"
+  },
+  {
+    "no": "793",
+    "verb1": "shoe",
+    "verb2": "shod",
+    "verb3": "shod",
+    "verbing": "shoeing"
+  },
+  {
+    "no": "794",
+    "verb1": "shoot",
+    "verb2": "shot",
+    "verb3": "shot",
+    "verbing": "shooting"
+  },
+  {
+    "no": "795",
+    "verb1": "shorten",
+    "verb2": "shortened",
+    "verb3": "shortened",
+    "verbing": "shortening"
+  },
+  {
+    "no": "796",
+    "verb1": "shout",
+    "verb2": "shouted",
+    "verb3": "shouted",
+    "verbing": "shouting"
+  },
+  {
+    "no": "797",
+    "verb1": "show",
+    "verb2": "showed",
+    "verb3": "shown",
+    "verbing": "showing"
+  },
+  {
+    "no": "798",
+    "verb1": "shrink",
+    "verb2": "shrank",
+    "verb3": "shrunk",
+    "verbing": "shrinking"
+  },
+  {
+    "no": "799",
+    "verb1": "shun",
+    "verb2": "shunned",
+    "verb3": "shunned",
+    "verbing": "shunning"
+  },
+  {
+    "no": "800",
+    "verb1": "shut",
+    "verb2": "shut",
+    "verb3": "shut",
+    "verbing": "shutting"
+  },
+  {
+    "no": "801",
+    "verb1": "sight",
+    "verb2": "sighted",
+    "verb3": "sighted",
+    "verbing": "sighting"
+  },
+  {
+    "no": "802",
+    "verb1": "signal",
+    "verb2": "signalled",
+    "verb3": "signalled",
+    "verbing": "signalling"
+  },
+  {
+    "no": "803",
+    "verb1": "signify",
+    "verb2": "signified",
+    "verb3": "signified",
+    "verbing": "signifying"
+  },
+  {
+    "no": "804",
+    "verb1": "sing",
+    "verb2": "sang",
+    "verb3": "sung",
+    "verbing": "singing"
+  },
+  {
+    "no": "805",
+    "verb1": "sink",
+    "verb2": "sank",
+    "verb3": "sunk",
+    "verbing": "sinking"
+  },
+  {
+    "no": "806",
+    "verb1": "sip",
+    "verb2": "sipped",
+    "verb3": "sipped",
+    "verbing": "sipping"
+  },
+  {
+    "no": "807",
+    "verb1": "sit",
+    "verb2": "sat",
+    "verb3": "sat",
+    "verbing": "sitting"
+  },
+  {
+    "no": "808",
+    "verb1": "ski",
+    "verb2": "skied",
+    "verb3": "skied",
+    "verbing": "skiing"
+  },
+  {
+    "no": "809",
+    "verb1": "skid",
+    "verb2": "skidded",
+    "verb3": "skidded",
+    "verbing": "skidding"
+  },
+  {
+    "no": "810",
+    "verb1": "slam",
+    "verb2": "slammed",
+    "verb3": "slammed",
+    "verbing": "slamming"
+  },
+  {
+    "no": "811",
+    "verb1": "slay",
+    "verb2": "slew",
+    "verb3": "slain",
+    "verbing": "slaying"
+  },
+  {
+    "no": "812",
+    "verb1": "sleep",
+    "verb2": "slept",
+    "verb3": "slept",
+    "verbing": "sleeping"
+  },
+  {
+    "no": "813",
+    "verb1": "slide",
+    "verb2": "slid",
+    "verb3": "slid/slide",
+    "verbing": "sliding"
+  },
+  {
+    "no": "814",
+    "verb1": "slim",
+    "verb2": "slimmed",
+    "verb3": "slimmed",
+    "verbing": "slimming"
+  },
+  {
+    "no": "815",
+    "verb1": "sling",
+    "verb2": "slung",
+    "verb3": "slung",
+    "verbing": "slinging"
+  },
+  {
+    "no": "816",
+    "verb1": "slink",
+    "verb2": "slunk",
+    "verb3": "slunk",
+    "verbing": "slinking"
+  },
+  {
+    "no": "817",
+    "verb1": "slip",
+    "verb2": "slipped",
+    "verb3": "slipped",
+    "verbing": "slipping"
+  },
+  {
+    "no": "818",
+    "verb1": "slit",
+    "verb2": "slit",
+    "verb3": "slit",
+    "verbing": "slitting"
+  },
+  {
+    "no": "819",
+    "verb1": "smash",
+    "verb2": "smashed",
+    "verb3": "smashed",
+    "verbing": "smashing"
+  },
+  {
+    "no": "820",
+    "verb1": "smell",
+    "verb2": "smelt",
+    "verb3": "smelt",
+    "verbing": "smelling"
+  },
+  {
+    "no": "821",
+    "verb1": "smile",
+    "verb2": "smiled",
+    "verb3": "smiled",
+    "verbing": "smiling"
+  },
+  {
+    "no": "822",
+    "verb1": "smite",
+    "verb2": "smote",
+    "verb3": "smitten",
+    "verbing": "smiting"
+  },
+  {
+    "no": "823",
+    "verb1": "smooth",
+    "verb2": "smoothed",
+    "verb3": "smoothed",
+    "verbing": "smoothing"
+  },
+  {
+    "no": "824",
+    "verb1": "smother",
+    "verb2": "smothered",
+    "verb3": "smothered",
+    "verbing": "smothering"
+  },
+  {
+    "no": "825",
+    "verb1": "snap",
+    "verb2": "snapped",
+    "verb3": "snapped",
+    "verbing": "snapping"
+  },
+  {
+    "no": "826",
+    "verb1": "snatch",
+    "verb2": "snatched",
+    "verb3": "snatched",
+    "verbing": "snatching"
+  },
+  {
+    "no": "827",
+    "verb1": "sneak",
+    "verb2": "snuck",
+    "verb3": "snuck",
+    "verbing": "sneaking"
+  },
+  {
+    "no": "828",
+    "verb1": "sneeze",
+    "verb2": "sneezed",
+    "verb3": "sneezed",
+    "verbing": "sneezing"
+  },
+  {
+    "no": "829",
+    "verb1": "sniff",
+    "verb2": "sniffed",
+    "verb3": "sniffed",
+    "verbing": "sniffing"
+  },
+  {
+    "no": "830",
+    "verb1": "soar",
+    "verb2": "soared",
+    "verb3": "soared",
+    "verbing": "soaring"
+  },
+  {
+    "no": "831",
+    "verb1": "sob",
+    "verb2": "sobbed",
+    "verb3": "sobbed",
+    "verbing": "sobbing"
+  },
+  {
+    "no": "832",
+    "verb1": "solicit",
+    "verb2": "solicited",
+    "verb3": "solicited",
+    "verbing": "soliciting"
+  },
+  {
+    "no": "833",
+    "verb1": "solve",
+    "verb2": "solved",
+    "verb3": "solved",
+    "verbing": "solving"
+  },
+  {
+    "no": "834",
+    "verb1": "soothe",
+    "verb2": "soothed",
+    "verb3": "soothed",
+    "verbing": "soothing"
+  },
+  {
+    "no": "835",
+    "verb1": "sort",
+    "verb2": "sorted",
+    "verb3": "sorted",
+    "verbing": "sorting"
+  },
+  {
+    "no": "836",
+    "verb1": "sow",
+    "verb2": "sowed",
+    "verb3": "sowed",
+    "verbing": "sowing"
+  },
+  {
+    "no": "837",
+    "verb1": "sparkle",
+    "verb2": "sparkled",
+    "verb3": "sparkled",
+    "verbing": "sparkling"
+  },
+  {
+    "no": "838",
+    "verb1": "speak",
+    "verb2": "spoke",
+    "verb3": "spoken",
+    "verbing": "speaking"
+  },
+  {
+    "no": "839",
+    "verb1": "speed",
+    "verb2": "sped",
+    "verb3": "sped",
+    "verbing": "speeding"
+  },
+  {
+    "no": "840",
+    "verb1": "spell",
+    "verb2": "spelt",
+    "verb3": "spelt",
+    "verbing": "spelling"
+  },
+  {
+    "no": "841",
+    "verb1": "spend",
+    "verb2": "spent",
+    "verb3": "spent",
+    "verbing": "spending"
+  },
+  {
+    "no": "842",
+    "verb1": "spill",
+    "verb2": "spilt",
+    "verb3": "spilt",
+    "verbing": "spilling"
+  },
+  {
+    "no": "843",
+    "verb1": "spin",
+    "verb2": "span/spun",
+    "verb3": "spun",
+    "verbing": "spinning"
+  },
+  {
+    "no": "844",
+    "verb1": "spit",
+    "verb2": "spat/spit",
+    "verb3": "spat/spit",
+    "verbing": "spitting"
+  },
+  {
+    "no": "845",
+    "verb1": "split",
+    "verb2": "split",
+    "verb3": "split",
+    "verbing": "splitting"
+  },
+  {
+    "no": "846",
+    "verb1": "spoil",
+    "verb2": "spoilt",
+    "verb3": "spoilt",
+    "verbing": "spoiling"
+  },
+  {
+    "no": "847",
+    "verb1": "spray",
+    "verb2": "sprayed",
+    "verb3": "sprayed",
+    "verbing": "spraying"
+  },
+  {
+    "no": "848",
+    "verb1": "spread",
+    "verb2": "spread",
+    "verb3": "spread",
+    "verbing": "spreading"
+  },
+  {
+    "no": "849",
+    "verb1": "spring",
+    "verb2": "sprang",
+    "verb3": "sprung",
+    "verbing": "springing"
+  },
+  {
+    "no": "850",
+    "verb1": "sprout",
+    "verb2": "sprouted",
+    "verb3": "sprouted",
+    "verbing": "sprouting"
+  },
+  {
+    "no": "851",
+    "verb1": "squeeze",
+    "verb2": "squeezed",
+    "verb3": "squeezed",
+    "verbing": "squeezing"
+  },
+  {
+    "no": "852",
+    "verb1": "stand",
+    "verb2": "stood",
+    "verb3": "stood",
+    "verbing": "standing"
+  },
+  {
+    "no": "853",
+    "verb1": "stare",
+    "verb2": "stared",
+    "verb3": "stared",
+    "verbing": "staring"
+  },
+  {
+    "no": "854",
+    "verb1": "start",
+    "verb2": "started",
+    "verb3": "started",
+    "verbing": "starting"
+  },
+  {
+    "no": "855",
+    "verb1": "state",
+    "verb2": "stated",
+    "verb3": "stated",
+    "verbing": "stating"
+  },
+  {
+    "no": "856",
+    "verb1": "stay",
+    "verb2": "stayed",
+    "verb3": "stayed",
+    "verbing": "staying"
+  },
+  {
+    "no": "857",
+    "verb1": "steal",
+    "verb2": "stole",
+    "verb3": "stolen",
+    "verbing": "stealing"
+  },
+  {
+    "no": "858",
+    "verb1": "steep",
+    "verb2": "steeped",
+    "verb3": "steeped",
+    "verbing": "steeping"
+  },
+  {
+    "no": "859",
+    "verb1": "stem",
+    "verb2": "stemmed",
+    "verb3": "stemmed",
+    "verbing": "stemming"
+  },
+  {
+    "no": "860",
+    "verb1": "step",
+    "verb2": "stepped",
+    "verb3": "stepped",
+    "verbing": "stepping"
+  },
+  {
+    "no": "861",
+    "verb1": "sterilize",
+    "verb2": "sterilized",
+    "verb3": "sterilized",
+    "verbing": "sterilizing"
+  },
+  {
+    "no": "862",
+    "verb1": "stick",
+    "verb2": "stuck",
+    "verb3": "stuck",
+    "verbing": "sticking"
+  },
+  {
+    "no": "863",
+    "verb1": "stimulate",
+    "verb2": "stimulated",
+    "verb3": "stimulated",
+    "verbing": "stimulating"
+  },
+  {
+    "no": "864",
+    "verb1": "sting",
+    "verb2": "stung",
+    "verb3": "stung",
+    "verbing": "stinging"
+  },
+  {
+    "no": "865",
+    "verb1": "stink",
+    "verb2": "stank",
+    "verb3": "stunk",
+    "verbing": "stinking"
+  },
+  {
+    "no": "866",
+    "verb1": "stir",
+    "verb2": "stirred",
+    "verb3": "stirred",
+    "verbing": "stirring"
+  },
+  {
+    "no": "867",
+    "verb1": "stitch",
+    "verb2": "stitched",
+    "verb3": "stitched",
+    "verbing": "stitching"
+  },
+  {
+    "no": "868",
+    "verb1": "stoop",
+    "verb2": "stooped",
+    "verb3": "stooped",
+    "verbing": "stooping"
+  },
+  {
+    "no": "869",
+    "verb1": "stop",
+    "verb2": "stopped",
+    "verb3": "stopped",
+    "verbing": "stopping"
+  },
+  {
+    "no": "870",
+    "verb1": "store",
+    "verb2": "stored",
+    "verb3": "stored",
+    "verbing": "storing"
+  },
+  {
+    "no": "871",
+    "verb1": "strain",
+    "verb2": "strained",
+    "verb3": "strained",
+    "verbing": "straining"
+  },
+  {
+    "no": "872",
+    "verb1": "stray",
+    "verb2": "strayed",
+    "verb3": "strayed",
+    "verbing": "straying"
+  },
+  {
+    "no": "873",
+    "verb1": "stress",
+    "verb2": "stressed",
+    "verb3": "stressed",
+    "verbing": "stressing"
+  },
+  {
+    "no": "874",
+    "verb1": "stretch",
+    "verb2": "stretched",
+    "verb3": "stretched",
+    "verbing": "stretching"
+  },
+  {
+    "no": "875",
+    "verb1": "strew",
+    "verb2": "strewed",
+    "verb3": "strewn",
+    "verbing": "strewing"
+  },
+  {
+    "no": "876",
+    "verb1": "stride",
+    "verb2": "strode",
+    "verb3": "stridden",
+    "verbing": "striding"
+  },
+  {
+    "no": "877",
+    "verb1": "strike",
+    "verb2": "struck",
+    "verb3": "struck/stricken",
+    "verbing": "striking"
+  },
+  {
+    "no": "878",
+    "verb1": "string",
+    "verb2": "strung",
+    "verb3": "strung",
+    "verbing": "stringing"
+  },
+  {
+    "no": "879",
+    "verb1": "strive",
+    "verb2": "strove",
+    "verb3": "striven",
+    "verbing": "striving"
+  },
+  {
+    "no": "880",
+    "verb1": "study",
+    "verb2": "studied",
+    "verb3": "studied",
+    "verbing": "studying"
+  },
+  {
+    "no": "881",
+    "verb1": "submit",
+    "verb2": "submitted",
+    "verb3": "submitted",
+    "verbing": "submitting"
+  },
+  {
+    "no": "882",
+    "verb1": "subscribe",
+    "verb2": "subscribed",
+    "verb3": "subscribed",
+    "verbing": "subscribing"
+  },
+  {
+    "no": "883",
+    "verb1": "subtract",
+    "verb2": "subtracted",
+    "verb3": "subtracted",
+    "verbing": "subtracting"
+  },
+  {
+    "no": "884",
+    "verb1": "succeed",
+    "verb2": "succeeded",
+    "verb3": "succeeded",
+    "verbing": "succeeding"
+  },
+  {
+    "no": "885",
+    "verb1": "suck",
+    "verb2": "sucked",
+    "verb3": "sucked",
+    "verbing": "sucking"
+  },
+  {
+    "no": "886",
+    "verb1": "suffer",
+    "verb2": "suffered",
+    "verb3": "suffered",
+    "verbing": "suffering"
+  },
+  {
+    "no": "887",
+    "verb1": "suggest",
+    "verb2": "suggested",
+    "verb3": "suggested",
+    "verbing": "suggesting"
+  },
+  {
+    "no": "888",
+    "verb1": "summon",
+    "verb2": "summoned",
+    "verb3": "summoned",
+    "verbing": "summoning"
+  },
+  {
+    "no": "889",
+    "verb1": "supply",
+    "verb2": "supplied",
+    "verb3": "supplied",
+    "verbing": "supplying"
+  },
+  {
+    "no": "890",
+    "verb1": "support",
+    "verb2": "supported",
+    "verb3": "supported",
+    "verbing": "supporting"
+  },
+  {
+    "no": "891",
+    "verb1": "suppose",
+    "verb2": "supposed",
+    "verb3": "supposed",
+    "verbing": "supposing"
+  },
+  {
+    "no": "892",
+    "verb1": "surge",
+    "verb2": "surged",
+    "verb3": "surged",
+    "verbing": "surging"
+  },
+  {
+    "no": "893",
+    "verb1": "surmise",
+    "verb2": "surmised",
+    "verb3": "surmised",
+    "verbing": "surmising"
+  },
+  {
+    "no": "894",
+    "verb1": "surpass",
+    "verb2": "surpassed",
+    "verb3": "surpassed",
+    "verbing": "surpassing"
+  },
+  {
+    "no": "895",
+    "verb1": "surround",
+    "verb2": "surrounded",
+    "verb3": "surrounded",
+    "verbing": "surrounding"
+  },
+  {
+    "no": "896",
+    "verb1": "survey",
+    "verb2": "surveyed",
+    "verb3": "surveyed",
+    "verbing": "surveying"
+  },
+  {
+    "no": "897",
+    "verb1": "survive",
+    "verb2": "survived",
+    "verb3": "survived",
+    "verbing": "surviving"
+  },
+  {
+    "no": "898",
+    "verb1": "swallow",
+    "verb2": "swallowed",
+    "verb3": "swallowed",
+    "verbing": "swallowing"
+  },
+  {
+    "no": "899",
+    "verb1": "sway",
+    "verb2": "swayed",
+    "verb3": "swayed",
+    "verbing": "swaying"
+  },
+  {
+    "no": "900",
+    "verb1": "swear",
+    "verb2": "swore",
+    "verb3": "sworn",
+    "verbing": "swearing"
+  },
+  {
+    "no": "901",
+    "verb1": "sweat",
+    "verb2": "sweat",
+    "verb3": "sweat",
+    "verbing": "sweating"
+  },
+  {
+    "no": "902",
+    "verb1": "sweep",
+    "verb2": "swept",
+    "verb3": "swept",
+    "verbing": "sweeping"
+  },
+  {
+    "no": "903",
+    "verb1": "swell",
+    "verb2": "swelled",
+    "verb3": "swollen",
+    "verbing": "swelling"
+  },
+  {
+    "no": "904",
+    "verb1": "swim",
+    "verb2": "swam",
+    "verb3": "swum",
+    "verbing": "swimming"
+  },
+  {
+    "no": "905",
+    "verb1": "swing",
+    "verb2": "swung",
+    "verb3": "swung",
+    "verbing": "swinging"
+  },
+  {
+    "no": "906",
+    "verb1": "swot",
+    "verb2": "swotted",
+    "verb3": "swotted",
+    "verbing": "swotting"
+  },
+  {
+    "no": "907",
+    "verb1": "take",
+    "verb2": "took",
+    "verb3": "taken",
+    "verbing": "taking"
+  },
+  {
+    "no": "908",
+    "verb1": "talk",
+    "verb2": "talked",
+    "verb3": "talked",
+    "verbing": "talking"
+  },
+  {
+    "no": "909",
+    "verb1": "tap",
+    "verb2": "tapped",
+    "verb3": "tapped",
+    "verbing": "tapping"
+  },
+  {
+    "no": "910",
+    "verb1": "taste",
+    "verb2": "tasted",
+    "verb3": "tasted",
+    "verbing": "tasting"
+  },
+  {
+    "no": "911",
+    "verb1": "tax",
+    "verb2": "taxed",
+    "verb3": "taxed",
+    "verbing": "taxing"
+  },
+  {
+    "no": "912",
+    "verb1": "teach",
+    "verb2": "taught",
+    "verb3": "taught",
+    "verbing": "teaching"
+  },
+  {
+    "no": "913",
+    "verb1": "tear",
+    "verb2": "tore",
+    "verb3": "torn",
+    "verbing": "tearing"
+  },
+  {
+    "no": "914",
+    "verb1": "tee",
+    "verb2": "teed",
+    "verb3": "teed",
+    "verbing": "teeing"
+  },
+  {
+    "no": "915",
+    "verb1": "tell",
+    "verb2": "told",
+    "verb3": "told",
+    "verbing": "telling"
+  },
+  {
+    "no": "916",
+    "verb1": "tempt",
+    "verb2": "tempted",
+    "verb3": "tempted",
+    "verbing": "tempting"
+  },
+  {
+    "no": "917",
+    "verb1": "tend",
+    "verb2": "tended",
+    "verb3": "tended",
+    "verbing": "tending"
+  },
+  {
+    "no": "918",
+    "verb1": "terminate",
+    "verb2": "terminated",
+    "verb3": "terminated",
+    "verbing": "terminating"
+  },
+  {
+    "no": "919",
+    "verb1": "terrify",
+    "verb2": "terrified",
+    "verb3": "terrified",
+    "verbing": "terrifying"
+  },
+  {
+    "no": "920",
+    "verb1": "test",
+    "verb2": "tested",
+    "verb3": "tested",
+    "verbing": "testing"
+  },
+  {
+    "no": "921",
+    "verb1": "thank",
+    "verb2": "thanked",
+    "verb3": "thanked",
+    "verbing": "thanking"
+  },
+  {
+    "no": "922",
+    "verb1": "think",
+    "verb2": "thought",
+    "verb3": "thought",
+    "verbing": "thinking"
+  },
+  {
+    "no": "923",
+    "verb1": "thrive",
+    "verb2": "throve",
+    "verb3": "thriven",
+    "verbing": "thriving"
+  },
+  {
+    "no": "924",
+    "verb1": "throw",
+    "verb2": "threw",
+    "verb3": "thrown",
+    "verbing": "throwing"
+  },
+  {
+    "no": "925",
+    "verb1": "thrust",
+    "verb2": "thrust",
+    "verb3": "thrust",
+    "verbing": "thrusting"
+  },
+  {
+    "no": "926",
+    "verb1": "thump",
+    "verb2": "thumped",
+    "verb3": "thumped",
+    "verbing": "thumping"
+  },
+  {
+    "no": "927",
+    "verb1": "tie",
+    "verb2": "tied",
+    "verb3": "tied",
+    "verbing": "tying"
+  },
+  {
+    "no": "928",
+    "verb1": "tire",
+    "verb2": "tired",
+    "verb3": "tired",
+    "verbing": "tiring"
+  },
+  {
+    "no": "929",
+    "verb1": "toss",
+    "verb2": "tossed",
+    "verb3": "tossed",
+    "verbing": "tossing"
+  },
+  {
+    "no": "930",
+    "verb1": "touch",
+    "verb2": "touched",
+    "verb3": "touched",
+    "verbing": "touching"
+  },
+  {
+    "no": "931",
+    "verb1": "train",
+    "verb2": "trained",
+    "verb3": "trained",
+    "verbing": "training"
+  },
+  {
+    "no": "932",
+    "verb1": "trample",
+    "verb2": "trampled",
+    "verb3": "trampled",
+    "verbing": "trampling"
+  },
+  {
+    "no": "933",
+    "verb1": "transfer",
+    "verb2": "transferred",
+    "verb3": "transferred",
+    "verbing": "transferring"
+  },
+  {
+    "no": "934",
+    "verb1": "transform",
+    "verb2": "transformed",
+    "verb3": "transformed",
+    "verbing": "transforming"
+  },
+  {
+    "no": "935",
+    "verb1": "translate",
+    "verb2": "translated",
+    "verb3": "translated",
+    "verbing": "translating"
+  },
+  {
+    "no": "936",
+    "verb1": "trap",
+    "verb2": "trapped",
+    "verb3": "trapped",
+    "verbing": "trapping"
+  },
+  {
+    "no": "937",
+    "verb1": "travel",
+    "verb2": "travelled",
+    "verb3": "travelled",
+    "verbing": "travelling"
+  },
+  {
+    "no": "938",
+    "verb1": "tread",
+    "verb2": "trod",
+    "verb3": "trodden",
+    "verbing": "treading"
+  },
+  {
+    "no": "939",
+    "verb1": "treasure",
+    "verb2": "treasured",
+    "verb3": "treasured",
+    "verbing": "treasuring"
+  },
+  {
+    "no": "940",
+    "verb1": "treat",
+    "verb2": "treated",
+    "verb3": "treated",
+    "verbing": "treating"
+  },
+  {
+    "no": "941",
+    "verb1": "tree",
+    "verb2": "treed",
+    "verb3": "treed",
+    "verbing": "treeing"
+  },
+  {
+    "no": "942",
+    "verb1": "tremble",
+    "verb2": "trembled",
+    "verb3": "trembled",
+    "verbing": "trembling"
+  },
+  {
+    "no": "943",
+    "verb1": "triumph",
+    "verb2": "triumphed",
+    "verb3": "triumphed",
+    "verbing": "triumphing"
+  },
+  {
+    "no": "944",
+    "verb1": "trust",
+    "verb2": "trusted",
+    "verb3": "trusted",
+    "verbing": "trusting"
+  },
+  {
+    "no": "945",
+    "verb1": "try",
+    "verb2": "tried",
+    "verb3": "tried",
+    "verbing": "trying"
+  },
+  {
+    "no": "946",
+    "verb1": "turn",
+    "verb2": "turned",
+    "verb3": "turned",
+    "verbing": "turning"
+  },
+  {
+    "no": "947",
+    "verb1": "type",
+    "verb2": "typed",
+    "verb3": "typed",
+    "verbing": "typing"
+  },
+  {
+    "no": "948",
+    "verb1": "typeset",
+    "verb2": "typeset",
+    "verb3": "typeset",
+    "verbing": "typesetting"
+  },
+  {
+    "no": "949",
+    "verb1": "understand",
+    "verb2": "understood",
+    "verb3": "understood",
+    "verbing": "understanding"
+  },
+  {
+    "no": "950",
+    "verb1": "undo",
+    "verb2": "undid",
+    "verb3": "undone",
+    "verbing": "undoing"
+  },
+  {
+    "no": "951",
+    "verb1": "uproot",
+    "verb2": "uprooted",
+    "verb3": "uprooted",
+    "verbing": "uprooting"
+  },
+  {
+    "no": "952",
+    "verb1": "upset",
+    "verb2": "upset",
+    "verb3": "upset",
+    "verbing": "upsetting"
+  },
+  {
+    "no": "953",
+    "verb1": "urge",
+    "verb2": "urged",
+    "verb3": "urged",
+    "verbing": "urging"
+  },
+  {
+    "no": "954",
+    "verb1": "use",
+    "verb2": "used",
+    "verb3": "used",
+    "verbing": "using"
+  },
+  {
+    "no": "955",
+    "verb1": "utter",
+    "verb2": "uttered",
+    "verb3": "uttered",
+    "verbing": "uttering"
+  },
+  {
+    "no": "956",
+    "verb1": "value",
+    "verb2": "valued",
+    "verb3": "valued",
+    "verbing": "valuing"
+  },
+  {
+    "no": "957",
+    "verb1": "vanish",
+    "verb2": "vanished",
+    "verb3": "vanished",
+    "verbing": "vanishing"
+  },
+  {
+    "no": "958",
+    "verb1": "vary",
+    "verb2": "varied",
+    "verb3": "varied",
+    "verbing": "varying"
+  },
+  {
+    "no": "959",
+    "verb1": "verify",
+    "verb2": "verified",
+    "verb3": "verified",
+    "verbing": "verifying"
+  },
+  {
+    "no": "960",
+    "verb1": "vex",
+    "verb2": "vexed",
+    "verb3": "vexed",
+    "verbing": "vexing"
+  },
+  {
+    "no": "961",
+    "verb1": "vie",
+    "verb2": "vied",
+    "verb3": "vied",
+    "verbing": "vying"
+  },
+  {
+    "no": "962",
+    "verb1": "view",
+    "verb2": "viewed",
+    "verb3": "viewed",
+    "verbing": "viewing"
+  },
+  {
+    "no": "963",
+    "verb1": "violate",
+    "verb2": "violated",
+    "verb3": "violated",
+    "verbing": "violating"
+  },
+  {
+    "no": "964",
+    "verb1": "vomit",
+    "verb2": "vomited",
+    "verb3": "vomited",
+    "verbing": "vomiting"
+  },
+  {
+    "no": "965",
+    "verb1": "wake",
+    "verb2": "woke",
+    "verb3": "woken",
+    "verbing": "waking"
+  },
+  {
+    "no": "966",
+    "verb1": "walk",
+    "verb2": "walked",
+    "verb3": "walked",
+    "verbing": "walking"
+  },
+  {
+    "no": "967",
+    "verb1": "wander",
+    "verb2": "wandered",
+    "verb3": "wandered",
+    "verbing": "wandering"
+  },
+  {
+    "no": "968",
+    "verb1": "want",
+    "verb2": "wanted",
+    "verb3": "wanted",
+    "verbing": "wanting"
+  },
+  {
+    "no": "969",
+    "verb1": "warn",
+    "verb2": "warned",
+    "verb3": "warned",
+    "verbing": "warning"
+  },
+  {
+    "no": "970",
+    "verb1": "waste",
+    "verb2": "wasted",
+    "verb3": "wasted",
+    "verbing": "wasting"
+  },
+  {
+    "no": "971",
+    "verb1": "watch",
+    "verb2": "watched",
+    "verb3": "watched",
+    "verbing": "watching"
+  },
+  {
+    "no": "972",
+    "verb1": "water",
+    "verb2": "watered",
+    "verb3": "watered",
+    "verbing": "watering"
+  },
+  {
+    "no": "973",
+    "verb1": "wave",
+    "verb2": "waved",
+    "verb3": "waved",
+    "verbing": "waving"
+  },
+  {
+    "no": "974",
+    "verb1": "wax",
+    "verb2": "waxed",
+    "verb3": "waxed",
+    "verbing": "waxing"
+  },
+  {
+    "no": "975",
+    "verb1": "waylay",
+    "verb2": "waylaid",
+    "verb3": "waylaid",
+    "verbing": "waylaying"
+  },
+  {
+    "no": "976",
+    "verb1": "wear",
+    "verb2": "wore",
+    "verb3": "worn",
+    "verbing": "wearing"
+  },
+  {
+    "no": "977",
+    "verb1": "weave",
+    "verb2": "wove",
+    "verb3": "woven",
+    "verbing": "weaving"
+  },
+  {
+    "no": "978",
+    "verb1": "wed",
+    "verb2": "wed",
+    "verb3": "wed",
+    "verbing": "wedding"
+  },
+  {
+    "no": "979",
+    "verb1": "weep",
+    "verb2": "wept",
+    "verb3": "wept",
+    "verbing": "weeping"
+  },
+  {
+    "no": "980",
+    "verb1": "weigh",
+    "verb2": "weighed",
+    "verb3": "weighed",
+    "verbing": "weighing"
+  },
+  {
+    "no": "981",
+    "verb1": "welcome",
+    "verb2": "welcomed",
+    "verb3": "welcomed",
+    "verbing": "welcoming"
+  },
+  {
+    "no": "982",
+    "verb1": "wend",
+    "verb2": "went",
+    "verb3": "went",
+    "verbing": "wending"
+  },
+  {
+    "no": "983",
+    "verb1": "wet",
+    "verb2": "wet",
+    "verb3": "wet",
+    "verbing": "wetting"
+  },
+  {
+    "no": "984",
+    "verb1": "whip",
+    "verb2": "whipped",
+    "verb3": "whipped",
+    "verbing": "whipping"
+  },
+  {
+    "no": "985",
+    "verb1": "whisper",
+    "verb2": "whispered",
+    "verb3": "whispered",
+    "verbing": "whispering"
+  },
+  {
+    "no": "986",
+    "verb1": "win",
+    "verb2": "won",
+    "verb3": "won",
+    "verbing": "winning"
+  },
+  {
+    "no": "987",
+    "verb1": "wind",
+    "verb2": "wound",
+    "verb3": "wound",
+    "verbing": "winding"
+  },
+  {
+    "no": "988",
+    "verb1": "wish",
+    "verb2": "wished",
+    "verb3": "wished",
+    "verbing": "wishing"
+  },
+  {
+    "no": "989",
+    "verb1": "withdraw",
+    "verb2": "withdrew",
+    "verb3": "withdrawn",
+    "verbing": "withdrawing"
+  },
+  {
+    "no": "990",
+    "verb1": "work",
+    "verb2": "worked",
+    "verb3": "worked",
+    "verbing": "working"
+  },
+  {
+    "no": "991",
+    "verb1": "worry",
+    "verb2": "worried",
+    "verb3": "worried",
+    "verbing": "worrying"
+  },
+  {
+    "no": "992",
+    "verb1": "worship",
+    "verb2": "worshipped",
+    "verb3": "worshipped",
+    "verbing": "worshipping"
+  },
+  {
+    "no": "993",
+    "verb1": "wring",
+    "verb2": "wrung",
+    "verb3": "wrung",
+    "verbing": "wringing"
+  },
+  {
+    "no": "994",
+    "verb1": "write",
+    "verb2": "wrote",
+    "verb3": "written",
+    "verbing": "writing"
+  },
+  {
+    "no": "995",
+    "verb1": "yawn",
+    "verb2": "yawned",
+    "verb3": "yawned",
+    "verbing": "yawning"
+  },
+  {
+    "no": "996",
+    "verb1": "yell",
+    "verb2": "yelled",
+    "verb3": "yelled",
+    "verbing": "yelling"
+  },
+  {
+    "no": "997",
+    "verb1": "yield",
+    "verb2": "yielded",
+    "verb3": "yielded",
+    "verbing": "yielding"
+  },
+  {
+    "no": "998",
+    "verb1": "zinc",
+    "verb2": "zincked",
+    "verb3": "zincked",
+    "verbing": "zincking"
+  },
+  {
+    "no": "999",
+    "verb1": "zoom",
+    "verb2": "zoomed",
+    "verb3": "zoomed",
+    "verbing": "zooming"
+  }
+]
